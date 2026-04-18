@@ -1,0 +1,1841 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<FinalDraft DocumentType="Script" Template="No" Version="6">
+
+  <DocumentRef DateTime="20251226T200114" id="5cf207be-2fb8-4091-8ee3-b83bbdb3a89f">
+    <XRef DateTime="20250719T224917" id="326d3bbb-277d-4966-b8b4-fc0c38660087"/>
+    <XRef DateTime="20250719T225100" id="311bf653-30ed-4d65-a49b-1d9bc7012bab"/>
+    <XRef DateTime="20251226T183821" id="bb93caa9-e934-4cda-aa07-9ccab99bcbbd"/>
+  </DocumentRef>
+
+  <Content>
+    <Paragraph Type="Action" id="77abdad0-6d1f-4f8c-a272-d071a1167280">
+      <Text>The </Text>
+      <Text Style="AllCaps">mailperson</Text>
+      <Text> hands a leafy envelop to </Text>
+      <Text Style="AllCaps">Rau</Text>
+      <Text>. They leave.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="0a550a19-daeb-4d60-b198-0407f076cec8">
+      <Text Style="AllCaps">Rau</Text>
+      <Text> opens the envelop.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="5119a0a4-11c4-40a0-bd91-091cbe689105">
+      <Text>Rau</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="360fbe5c-23c1-4d19-b5bb-21a4d7a5fe0e">
+      <Text AdornmentStyle="-1">Aaaaahhhhhhh</Text>
+      <Text> </Text>
+      <Text AdornmentStyle="-1">yyyaaaaaayyyyyy</Text>
+      <Text>!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="573eca4c-a03c-448c-b0ab-3944f1752fb6">
+      <Text>Parsley</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="81f3b21c-c4f2-40bf-b7f8-a5a8348d99aa">
+      <Text>Did you get it?!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="425163aa-2fba-477f-8e6e-afc5ff73b55a">
+      <Text>Rau</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="97c71041-a740-4858-8d8e-822ea964785d">
+      <Text>We got in!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="17c248eb-0a8f-4843-b8ff-c1327437e74d">
+      <Text>Parsley</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="f9e84083-9314-4e12-80da-6b8215be7d27">
+      <Text>We got in? Where?</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Scene Heading" id="59a84013-6414-4cb0-b6b5-264d76540d3d">
+      <SceneProperties Length="6/8" Page="1" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="ANNOUNCER">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="DANDY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Herbivores Trough Studio Set on Television - Day</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="7a16fd53-8d0f-4d17-9616-5e70e3d8bf88">
+      <Text>We see a television broadcast with graphics and the sorts. </Text>
+      <Text Style="Italic">Herbivores Trough</Text>
+      <Text> is like </Text>
+      <Text Style="Italic">Shark Tank</Text>
+      <Text> for plants. The </Text>
+      <Text Style="AllCaps">announcer</Text>
+      <Text> presents each </Text>
+      <Text Style="AllCaps">judge</Text>
+      <Text>, known as an </Text>
+      <Text Style="AllCaps">herbivore</Text>
+      <Text>.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="d9ad7aae-4d9d-41db-b841-bbc10ecee67e">
+      <Text>Announcer (TV)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="98dcf528-9d2c-4382-99b8-4f15af78e5f2">
+      <Text>On another live broadcast episode of </Text>
+      <Text Style="Italic">Herbivore Trough</Text>
+      <Text>. With your herbivores...</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="98dcf528-9d2c-4382-99b8-4f15af78e5f2"/>
+    <Paragraph Type="Dialogue" id="98dcf528-9d2c-4382-99b8-4f15af78e5f2">
+      <Text>The owner of the Mariposa Bluebonnets in the National Waterball Association: Cubana!
+
+The </Text>
+      <Text Style="Italic+Underline">hedge</Text>
+      <Text> fund manager of Shrub Capital: May Hawthorn!
+
+The CEO of Waterkey Instruments: Cala Gourdon!</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="98dcf528-9d2c-4382-99b8-4f15af78e5f2"/>
+    <Paragraph Type="Dialogue" id="98dcf528-9d2c-4382-99b8-4f15af78e5f2">
+      <Text>The cofounder of the search engine, </Text>
+      <Text Style="Italic">Corno</Text>
+      <Text>, look up... Zea Mays!
+
+The real estate developer of It’s All Dandy Properties: Alton Dandy!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="9a9211f0-0b0d-482e-96ae-08279287ec1e">
+      <Text>DandY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="105c800a-9683-45db-b18a-d807bfdf0c80">
+      <Text>Dandelions are everywhere!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="6e7b3181-2f93-4319-97a8-b073c1299de6">
+      <Text>AnnOUNCER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="e71b2e40-46d0-4901-9bb5-7f4fe15cae85">
+      <Text>And the executive producer’s kid... Prick.
+
+Stay tuned after the commercial break! We have a special cilantro who’ll be pitching to our herbivores.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Scene Heading" id="d71b4e9f-1ac5-40ec-9d86-b5c87f9bee00">
+      <SceneProperties Length="5 4/8" Page="2" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="BOMBUS">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="CUBANA">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="DANDY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="DIRECTOR">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="GOURDON">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="MAY HAWTHORN">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="PARSLEY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="PRICK">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="PRODUCTION ASSISTANT">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="PYRUS">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="RAU">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="SECURITY GUARD">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="ZEA MAYS">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Int. Green Room - Day</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="9a8650fa-8802-4935-b5fd-1838088977ee">
+      <Text Style="AllCaps">Rau</Text>
+      <Text> reads her notes while </Text>
+      <Text Style="AllCaps">Parsley</Text>
+      <Text> messes with the amenities. </Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="44e10546-6dbd-40cd-94eb-083451f8def6">
+      <Text>Rau</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="91cfc4fc-fbab-4563-80fb-e1f4bf27f43f">
+      <Text>Remember what we rehearsed.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="645008f2-86fb-4d30-a4f0-fca1fc6835cc">
+      <Text>Parsley</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="4274f467-f0f0-41af-862e-faa5697199cd">
+      <Text>How could I forget? I’m your assistant!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="d652b4dc-f8e6-4a96-9962-58d2629970ef">
+      <Text>The </Text>
+      <Text Style="AllCaps">production assistant</Text>
+      <Text> briefly pops into the door.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="94009b6a-4996-4077-99f6-1740f091460f">
+      <Text>Production Assistant</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="1c3fd263-5d06-48bc-8ad6-de04c1343db6">
+      <Text>You’re on in five.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="35fb7ba5-4d50-4f7e-a243-b2b5704722c4">
+      <Text>Rau</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="03558f3d-c38e-43cf-8db4-e5d202212431">
+      <Text>Thank you.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="25738e57-3e9c-4410-8a52-fabbc22463f5">
+      <Text>Bombus (O.S.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="972cf9ba-1bcc-407b-8e65-398637666e93">
+      <Text>Buzz!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="f337b5b7-3d2b-49ad-aa5a-edd6bed40c4e">
+      <Text>Rau</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="164cb627-5902-411b-99a9-8fede2512498">
+      <Text>What’s that?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="ba7f2791-13e8-412a-8e38-373ac5ecce4d">
+      <Text>ParSLEY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="a207dbba-9d0e-4fe2-8ccb-c1a3179bf46c">
+      <Text>Mom, it’s your gift-</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="35ebc8f1-42c1-48aa-86d7-fab836a0cf89">
+      <Text>Rau</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="20006d91-b667-47b5-bab9-69cec31f34b4">
+      <Text>I must have not turned off the sensor alarm at our station. Son, I’ll be right back.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="a3a32c61-b4f8-432e-9853-2a92cb93cfa4">
+      <Text Style="AllCaps">Rau</Text>
+      <Text> heads out.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="8e5f350f-c0b4-4d57-be86-07ea743e7d5d">
+      <Text Style="AllCaps">Parsley</Text>
+      <Text> goes to the window. The bee </Text>
+      <Text Style="AllCaps">Bombus</Text>
+      <Text> flies in.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="c504c675-a0a6-481e-a884-38864baab8e0">
+      <Text>Parsley</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="270d10b1-6f53-4340-82eb-396681a3c5ae">
+      <Text>This reveal would have been the bee’s knees.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="12890f3b-5c66-49c1-af3a-7bdf4939ba2f">
+      <Text Style="AllCaps">Bombus</Text>
+      <Text> flies to and opens the door. They exit.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="dc7ea584-2f0d-4922-ba16-084358ed11ac">
+      <Text>Parsley</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="371f1a3c-9da1-41a7-be40-0c806e6ccfb6">
+      <Text>Where you going, Bombus?!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="a7a22705-c7c5-4bd5-86db-5ef07e338de7">
+      <Text Style="AllCaps">Parsley</Text>
+      <Text> runs out to...</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="bcf4f72e-5c51-4ccb-9b05-b5526467704d">
+      <Text Style="AllCaps">Studio hallway - Continuous</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="5be811e6-fdb0-460f-9366-2dc2e3d460a5">
+      <Text>...the studio hallway. </Text>
+      <Text Style="AllCaps">Parsley</Text>
+      <Text> turns to see </Text>
+      <Text Style="AllCaps">Bombus</Text>
+      <Text> chasing after several </Text>
+      <Text Style="AllCaps">security guards</Text>
+      <Text> who are chasing after </Text>
+      <Text Style="AllCaps">Pyrus</Text>
+      <Text>.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="602d6ad9-83c4-499b-849e-609a4f270a5b">
+      <Text>Security Guard</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="77a4e563-a636-4c05-8050-919d4636179e">
+      <Text>You ain’t supposed to be here!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="4bb4a00c-198c-4df2-8896-7b98e25c91a9">
+      <Text>Pyrus</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="aa4395fe-3722-448f-984d-47d2c20e70f0">
+      <Text>What is here but the world?!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="a3fcf641-eec9-413b-88d8-82a0b3e5094a">
+      <Text>ParslEY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="9403c6c1-a124-4ed4-82d2-c352711f0393">
+      <Text>Pyrus! What in the world! I only asked for Bombus!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="7c7b6976-3e81-4c53-a6f5-4bccfaa0fb68">
+      <Text Style="AllCaps">Parsley</Text>
+      <Text> chases after </Text>
+      <Text Style="AllCaps">Bombus</Text>
+      <Text> who is chasing after the </Text>
+      <Text Style="AllCaps">security guards</Text>
+      <Text> who are chasing after </Text>
+      <Text Style="AllCaps">Pyrus</Text>
+      <Text>.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="c0bbb60d-e7df-4d1f-9497-f94210c0678a">
+      <Text Style="AllCaps">Studio hallway - Moments Later</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="daff538c-bdce-4c58-aaec-45d0dee37182">
+      <Text Style="AllCaps">Rau</Text>
+      <Text> anxiously stands on a platform.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="2ccd760f-39a7-4c36-9ffd-b50602f9c9b4">
+      <Text>Rau</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="a4ad84a0-a456-42db-a8e3-f087cfe0d898">
+      <Text>(Muttering)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="0cc7cec6-bcd2-40a0-8422-82aae7e277c4">
+      <Text>Where is Parsley?!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="e70b5d94-ca57-4907-9661-35acbd03605b">
+      <Text>ProdUCTION ASSISTANT</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="ca7d27dc-7a53-4b02-ae66-500c8e49c9aa">
+      <Text>Where’s ya kid? Well, no time. You’re on in 3... 2... 1...</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="06625eca-da89-4341-ac43-dd6960aed42e">
+      <Text Style="AllCaps">Rau</Text>
+      <Text> is lowered into...</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="87087254-48e0-4217-81ff-ae8b8bf2f21f">
+      <Text Style="AllCaps">Int. Herbivore Trough - Continuous</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="fed0afc1-f433-4f5e-8d34-a948462001a9">
+      <Text Style="Underline+AllCaps">OVerly dramatic music</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="15c4a164-3331-4ed5-bacc-6feb426c0bf2">
+      <Text Style="AllCaps">...</Text>
+      <Text>a terracotta-esque space where the six </Text>
+      <Text Style="AllCaps">herbivores</Text>
+      <Text> are seated in a trough. She shakily stands by the station.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="3a2d6080-5a67-47a0-8553-c934f6bbc752">
+      <Text>Zea Mays</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="2df6a37f-f426-4483-9be7-297e349c6029">
+      <Text>So... what’s your name?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="4789a142-72b5-4d07-a870-c21defb9841a">
+      <Text>Rau</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="f8caa9c5-6dd8-48ff-b57d-4da3df1b1261">
+      <Text>Chào, herbivores. I’m Rau Ram. I run the salon known as Salontro, which is owned by Malus Crabapple, in Dirty City.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="da1e3930-add5-418d-a951-e2525c588cce">
+      <Text Style="AllCaps">The chyron reads:</Text>
+      <Text> “Rau Ram. Paddy Kingdom.”</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="c52bd7c0-50d7-486a-ad2a-4d58f2e5a0d1">
+      <Text>DanDY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="2fe131c8-14e3-412f-b924-81b3387acbc4">
+      <Text>Malus Crabapple, the owner of FigLeaf nightclub?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="866c71e1-4c72-44dd-b602-8431ac046303">
+      <Text>Rau</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="9d05d133-c155-4912-9857-9ec258cd83be">
+      <Text>Yup.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="1c30b54a-3e51-439c-b3c2-3b6fd2e096d7">
+      <Text>Dandy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="da156595-9a58-454c-95c4-9fe3acec802e">
+      <Text>I would love that spot one day.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="ab96d900-c880-42b9-8737-dbe7cdc8be20">
+      <Text>Rau</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="47eddaa3-316e-4852-b235-3f93dd70e67d">
+      <Text>You can have a spot in my business, Dandy. I’m seeking 1 million B S for 2.5% stake of our product.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="28e546eb-a99c-4110-9bc4-5fa17e2f29d5">
+      <Text>The </Text>
+      <Text Style="AllCaps">herbivores</Text>
+      <Text> look at one another, amused.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="e1a458aa-9a00-40a5-a24e-1c5380aeb30c">
+      <Text>Rau</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="366c392a-20e0-412e-aaf3-f71f7d5372a6">
+      <Text>I present to you, the Bee’s Knees. These ointments are so healthy for your cellulose skin, hydrating it while possessing antibacterial and non-inflammatory properties that heal wounds and soothe irritation. Here is a demonstration...</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="cc08f85a-45a8-4a53-96ea-79bc9c6a6452">
+      <Text Style="AllCaps">Rau</Text>
+      <Text> goes behind the station and tries to put on gloves there. She realizes these are kid-sized gloves meant for </Text>
+      <Text Style="AllCaps">Parsley</Text>
+      <Text>.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="15611d5d-641a-40ed-9050-1c16e8da0881">
+      <Text>Rau</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="6689acae-b90a-4508-877d-f70a60c8cb89">
+      <Text>You’re so irritating.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="61849b18-40fa-4062-8cc9-00658ab3ffed">
+      <Text>May Hawthorn</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="81c4691f-5154-452d-84ca-4a7ea956e3bc">
+      <Text>Poking fun at us?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="ae70f397-38d5-47fe-b793-32af8f64cc61">
+      <Text>Rau</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="b67a0c24-3047-45ef-ad03-a37112b4590a">
+      <Text>Absolutely not, May Hawthorn. There’s just a thorn in my side.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="3a1107c8-7744-4d81-85ad-73ae2149e0cb">
+      <Text Style="AllCaps">Rau</Text>
+      <Text> barely puts on the gloves.</Text>
+    </Paragraph>
+    <Paragraph Type="Transition" id="d38b259a-00ed-409d-9629-242a67dd686e">
+      <Text>Match cut to:</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="a320d614-c83b-461d-8747-aa2bc91e305f">
+      <Text Style="AllCaps">Elsewhere in the studio - Continuous</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="078deaaf-3c9b-44b3-ae96-fab48ac70f25">
+      <Text Style="AllCaps">Caterers</Text>
+      <Text> put on their gloves and push food carts.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="4f03e4b0-a922-4d2d-b01f-76afc4568d6e">
+      <Text Style="AllCaps">Pyrus</Text>
+      <Text> runs past food carts, camera operators, boardrooms, and office cubicles with ease. The </Text>
+      <Text Style="AllCaps">security guards</Text>
+      <Text> ram into and trip over them. </Text>
+      <Text Style="AllCaps">Bombus</Text>
+      <Text> flies over while </Text>
+      <Text Style="AllCaps">parsley</Text>
+      <Text> leaps past.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="e4998e16-64d2-43d8-8dae-4d8232993991">
+      <Text Style="AllCaps">Parsley</Text>
+      <Text> runs to find </Text>
+      <Text Style="AllCaps">Pyrus</Text>
+      <Text> on a Jurassic Park-esque film set.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="d6385712-e7a1-44e9-8b6b-4e054a3b3dfa">
+      <Text>Pyrus</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="60438c51-59a7-4b90-a4d7-ca4728f85824">
+      <Text>(Reading a cue card)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="cb4611b5-7dc9-4d8d-94ca-639fb54db50e">
+      <Text>Cenozoic Park.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="2652500e-daea-42ec-aaac-2c02a3ecae3c">
+      <Text Style="AllCaps">Bombus</Text>
+      <Text> joins </Text>
+      <Text Style="AllCaps">Pyrus</Text>
+      <Text>’s side. They scratch </Text>
+      <Text Style="AllCaps">Bombus</Text>
+      <Text>.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="ba1b51f9-ef4b-4622-8208-661442ee5941">
+      <Text>Pyrus</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="73ee0d2d-c056-43a0-9f60-02a47d8532cc">
+      <Text>Ah Bombus, my plot armor.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="00f78eb2-6902-4ebe-9a11-a1152db72672">
+      <Text Style="AllCaps">Parsley</Text>
+      <Text> approaches </Text>
+      <Text Style="AllCaps">Pyrus</Text>
+      <Text>.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="f6ea7bdd-d37f-4f26-9e89-1ae8d050e6a9">
+      <Text>PyRUS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="44233ced-d9d4-4900-9226-11efa575eac3">
+      <Text>And Parsley is gonna kill us off!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="657dc9d3-e4ba-4f0f-bc52-20b768860b08">
+      <Text>Parsley</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="0d7eddbb-259f-4e2f-a363-98e352d98c52">
+      <Text>Bombus’s time is very generous, but I didn’t expect yours.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="49866251-d146-4716-80dc-72d234faf329">
+      <Text>Pyrus</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="c7d99dd7-035e-40af-a066-e9be5a3dea67">
+      <Text>I just thought y’all would benefit from a groupie!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="f949e064-2a8a-4062-baf3-5f722508b293">
+      <Text>Rumble. Several terrified plants run in while a giant animatronic human hand chases them.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="90b8dcd2-d648-4167-9140-d734c79425df">
+      <Text Style="AllCaps">Bombus</Text>
+      <Text> flies off.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="ab481de6-5355-47ea-9778-abe175f0f137">
+      <Text>Pyrus</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="0f1a8164-8849-44b3-86d3-a1c064086638">
+      <Text>My plot armor!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="55f18c83-3828-4846-839d-ece184f87e49">
+      <Text>Parsley</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="9bf94885-7d53-47d2-9582-94f5ad9745d1">
+      <Text>The CGI seems so real!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="58eb838d-1c6e-4cca-b557-6f06465b13e0">
+      <Text>Director (O.S.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="055b7205-c929-4ba7-a21c-e555b45f0449">
+      <Text>Cut!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="79e4bca8-4127-475d-89b6-6620099e459e">
+      <Text>The </Text>
+      <Text Style="AllCaps">plants</Text>
+      <Text> stop acting and the </Text>
+      <Text Style="AllCaps">hand</Text>
+      <Text> stops moving.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="a899b664-af25-462b-b904-9474bf123b69">
+      <Text>The </Text>
+      <Text Style="AllCaps">production crew</Text>
+      <Text> enters the set.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="d1c0ade5-8ad3-4663-80cf-e1fdd64ded0d">
+      <Text>Director</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="976a4e11-6018-47db-b5a2-6009453d6a69">
+      <Text>What’re these extras doing here?!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="e93cf08c-e509-43f9-9796-5f1d452a65fd">
+      <Text>The </Text>
+      <Text Style="AllCaps">security guards</Text>
+      <Text> surround and detain the </Text>
+      <Text Style="AllCaps">kids</Text>
+      <Text>.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="3d798f4f-2beb-4b58-8720-92e010408055">
+      <Text Style="AllCaps">Int. Herbivores Trough - Continuous</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="c216f29f-474e-49ac-949d-fb9bef185a1f">
+      <Text Style="AllCaps">Rau</Text>
+      <Text> dabs her hands into a jar of ointment and splatters it on </Text>
+      <Text Style="AllCaps">Dandy</Text>
+      <Text>’s face.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="a79f55b8-4320-4d00-8d4f-516df3ac0b19">
+      <Text>The other </Text>
+      <Text Style="AllCaps">herbivores</Text>
+      <Text> but </Text>
+      <Text Style="AllCaps">Cubana</Text>
+      <Text> are splattered in ointment.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="717311bf-3782-4ed9-b00e-fa603e314fe3">
+      <Text>Prick</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="15e0af72-56f2-4b09-9a83-e4e4abbfcdf5">
+      <Text>My skin feels like dead bees. It’s so sick!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="664a08f4-8e90-4768-947e-748bee71787f">
+      <Text>RaU</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="bf45a7be-8577-4c40-9b3c-cb87417ae04e">
+      <Text>No bees were harmed in the making of my product.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="9814f4aa-bdd5-4df9-9d26-f374c2ed294d">
+      <Text Style="AllCaps">Cubana</Text>
+      <Text> grabs </Text>
+      <Text Style="AllCaps">Rau</Text>
+      <Text>’s hand before </Text>
+      <Text Style="AllCaps">Rau</Text>
+      <Text> applies ointment.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="87e21a42-6673-4b8e-b797-3be1fe84c3c6">
+      <Text>Cubana</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="ecc48e2e-35b8-4fa0-854d-0204289a1e8c">
+      <Text>From transplant to transplant, I just wanna say that I respect the hustle. I’ve got my green card and you best get yours soon before that Weed Out Act uproots you.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="15536c72-c50b-4228-8135-aff5b2ec34da">
+      <Text>Zea Mays</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="c2792a74-3131-42fa-9fd7-0445e7e30c9d">
+      <Text>Where are you from?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="a4c57882-aaba-4d08-9f44-bf954bb70df9">
+      <Text>Rau</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="8cb1b541-c065-4295-8ca4-f3acc333a728">
+      <Text>Don’t you own a search engine? You can corno me.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="6f451a06-316c-4f2e-b9af-dbba0b7546fe">
+      <Text>Prick</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="f9f6bc18-2f71-4cb3-9c9e-cccbf57bd85f">
+      <Text>You single?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="eb0dfdda-1368-4a9c-ac70-804f42fdfb69">
+      <Text>Rau</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="01c1cb03-b4fb-48a3-aa69-e68757537c12">
+      <Text>Excuse me?! Mind your own beeswax!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="0fffdc26-6637-45a9-95fa-8c54c51abbce">
+      <Text>May Hawthorn</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="353bf2af-d199-44e3-9238-d9f870477669">
+      <Text>A reminder that we’d like to consider investing in your business if the questions be.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="b78405b8-6112-4462-b3dc-86a1c695a87c">
+      <Text>Rau</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="2e8ccd70-9d2f-4c76-958c-6ae128e3eb4e">
+      <Text>Prick asked me out!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="03f4f0da-a22a-44a7-8cc2-8263d585ccdf">
+      <Text>Prick</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="ef0ba3ae-0ac0-42d4-8d0f-b1b8a952bb0b">
+      <Text>Why would a fine cilantro like you sell bees’ bodies is all I’m wondering. It’ll be a... </Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="f61a5f3c-7912-4e1e-8386-92d2e71ffc28">
+      <Text Style="AllCaps">Bombus</Text>
+      <Text> flies in from an opening where </Text>
+      <Text Style="AllCaps">Rau</Text>
+      <Text> was lowered from.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="General" id="41edb2c9-79e5-4da0-8c2d-6bdc8cbc7690">
+      <DualDialogue>
+        <SpellCheckIgnoreLists>
+          <IgnoredRanges/>
+          <IgnoredWords/>
+        </SpellCheckIgnoreLists>
+        <Paragraph Type="Character" id="f4506ef9-2042-405e-a505-79210018fbb6">
+          <Text>BombUS</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue" id="1e3d6cb1-0157-454d-9d55-4c51b46433bb">
+          <Text>Buzz.</Text>
+        </Paragraph>
+        <Paragraph Type="Character" id="8271c482-1a08-481b-a1ab-b92bcd95f66f">
+          <Text>PriCK</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue" id="a34219e6-8bd4-4cf7-9a19-c3860041482c">
+          <Text>...buzz.</Text>
+        </Paragraph>
+      </DualDialogue>
+    </Paragraph>
+    <Paragraph Type="Character" id="dc8acca8-0fc2-4635-b2b8-7890a2007065">
+      <Text>Gourdon</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="bdacf12e-9cce-45a4-bd9e-3f7ff7a2f382">
+      <Text>You even got a bee for this demonstration?!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="5ab576b2-ef5d-45a5-b892-ef55c18b398a">
+      <Text>Rau</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="7add807d-5471-4e36-ae07-4063b62f2d88">
+      <Text>This was not in the script! And for the last time, it’s not made out of real knees of bees!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="1bfe2bbe-472f-45db-8ace-2f5e4ada1154">
+      <Text Style="AllCaps">Bombus</Text>
+      <Text> flies erratically, bumping into the </Text>
+      <Text Style="AllCaps">Herbivores</Text>
+      <Text>. The production is pure chaos.</Text>
+    </Paragraph>
+    <Paragraph Type="Transition" id="033d08d8-f1c4-4ee5-8281-3aec228343d1">
+      <Text>Cut to:</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="66e30c87-8498-4e13-88c6-c0f7c1d8b925">
+      <Text Style="AllCaps">Television Test Card (Mostly Green)</Text>
+    </Paragraph>
+    <Paragraph Type="Transition" id="7ebca3dd-d101-4185-bdb1-e900a8030431">
+      <Text>Cut to:</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="e8f8c0b8-3a5f-45ad-9ac8-abc81e098a5a">
+      <Text Style="AllCaps">Int. Herbivores Trough - Shortly After</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="b1a9a7a3-2bd6-456f-8b27-e8ba42ffdf25">
+      <Text>The </Text>
+      <Text Style="AllCaps">Herbivores</Text>
+      <Text> appear disheveled and beaten.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="2ea86a63-e070-4d72-bbf0-a80b75f6a7d3">
+      <Text Style="AllCaps">Rau</Text>
+      <Text> quakes, standing alongside </Text>
+      <Text Style="AllCaps">Parsley</Text>
+      <Text> wearing his gloves.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="e8448e41-97ca-4a69-905d-d33aa2220d40">
+      <Text Style="AllCaps">Pyrus</Text>
+      <Text> is nearby with the </Text>
+      <Text Style="AllCaps">security guard</Text>
+      <Text>.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="ebb0e199-8a49-4167-bcf3-87df093a5512">
+      <Text Style="AllCaps">Bombus</Text>
+      <Text> is dancing on the Bee’s Knees product.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="ee047050-6088-49b2-ac80-5aa620c1c63f">
+      <Text>Rau</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="0dc2367f-3e08-46fb-a8bd-e98dbf114914">
+      <Text>So, who’s down for Bee’s Knees?!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="f388dc89-b685-4afb-9422-d3bfa95f0b97">
+      <Text>Most </Text>
+      <Text Style="AllCaps">herbivores</Text>
+      <Text> physically express their disdain for </Text>
+      <Text Style="AllCaps">Rau</Text>
+      <Text>.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="10d949d0-7abb-4b94-990c-007e8d0f7643">
+      <Text>Prick</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="2e85425c-ecb4-41ec-b51c-65b2ea1a28ca">
+      <Text>I wanna stake in Bee’s Knees!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="7b7092d9-7ab6-4d7c-be98-6a733ad7e3f4">
+      <Text>Rau</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="b4da39cf-73f4-42de-8d28-84de9d0bb23f">
+      <Text>Um... Your endorsement won’t be necessary, Prick.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="aa346b0d-c22d-40e1-b6d9-ce77d3771f90">
+      <Text Style="AllCaps">Rau</Text>
+      <Text> heads to the platform.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="df747ee4-5979-4bd2-8ae9-1d429e0094f7">
+      <Text>Rau (Pre-Lap)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="4fdc3ab2-d893-4021-b922-a25104fa7c82">
+      <Text>To Bee’s Knees. Not to Bee’s Knees.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="88283852-1248-4784-85a4-2661e5c91ab8">
+      <Text Style="AllCaps">Rau</Text>
+      <Text> is raised back to the level above.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Scene Heading" id="cf9a68b0-2746-4b1a-a0cb-252c887c9853">
+      <SceneProperties Length="3/8" Page="7" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="PARSLEY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="RAU">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Television - Continuous</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="97a960cd-a2ed-464c-84d5-caf63f5ca932">
+      <Text Style="AllCaps">Rau</Text>
+      <Text> is seated, speaking to the camera like a reality show.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="19b4ea97-1bdc-4477-b281-8e5a0b18fa7f">
+      <Text>Rau</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="4754d316-ece1-4d47-b3fd-eda21f40d6da">
+      <Text>That’s how it’d be...</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="55570612-a870-49e0-8202-efa165bdd375">
+      <Text Style="AllCaps">Parsley</Text>
+      <Text> interjects.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="b250dbd5-6c21-4c55-a341-023975969d90">
+      <Text>Parsley</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="86697a5c-7edd-4ba0-a4a9-fb5369f665d9">
+      <Text>It doesn’t need to be this way. It can be the best if you fight for-</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="4bf6cbf7-d2e9-4f7c-aada-b52d584ba71f">
+      <Text Style="AllCaps">Rau</Text>
+      <Text> pushes away </Text>
+      <Text Style="AllCaps">Parsley</Text>
+      <Text>.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Scene Heading" id="107c0028-ae34-4735-bd66-9dc5ce7f2a33">
+      <SceneProperties Length="1 6/8" Page="7" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="PATRON">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="RAU">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="RHIZO">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="WORKER 1">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="WORKER 2">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Int. Salontro - Day</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="84a2b041-c0cb-46f5-9425-b907a2c4c284">
+      <Text Style="AllCaps">Rau</Text>
+      <Text> watches her </Text>
+      <Text Style="Italic">Herbivore Trough</Text>
+      <Text> episode on TV.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="07be0a83-50f4-4037-9cca-8195b41b400c">
+      <Text>Rau (TV)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="8bffa6d1-c29d-4324-a01d-811f8f3cb23b">
+      <Text>Improvising never works, son!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="4e5140cd-16ac-4257-8324-a66abb1f6bb3">
+      <Text Style="AllCaps">On TV</Text>
+      <Text>: </Text>
+      <Text Style="AllCaps">Bombus</Text>
+      <Text> flies into the camera, knocking it over.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="e66e1ec8-94c5-464a-831d-823122f19bad">
+      <Text Style="AllCaps">Rau</Text>
+      <Text> turns off the TV with a remote and</Text>
+      <Text Size="10"> </Text>
+      <Text>exhaustedly</Text>
+      <Text Size="10"> </Text>
+      <Text>looks</Text>
+      <Text Size="10"> </Text>
+      <Text>down.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="e3475bfc-dcab-482b-950c-6b786a9be76a">
+      <Text>Patron (O.S.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="94013a1f-983b-4029-8077-57ae87566486">
+      <Text>Germinations!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="aa857c5a-5452-4e6f-a77d-d9c93c4c7403">
+      <Text Style="AllCaps">Rau</Text>
+      <Text> flinches and throws the remote, shattering it again. She sees a group of </Text>
+      <Text Style="AllCaps">patrons</Text>
+      <Text> in front of her.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="a39c35e3-3926-4c29-8c33-471d6f833af3">
+      <Text>Patron</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="bf457395-94a5-46d1-93a3-e76006eb7961">
+      <Text>Woah. That was cringe. But not as cringe as you on </Text>
+      <Text Style="Italic">Herbivores Trough</Text>
+      <Text>. Your ointment, the Bee’s Knees, sounds so cringy. We’ll take 22!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="015a93c7-3277-4183-9693-1c6a1970f1d7">
+      <Text>Now a crowd, the </Text>
+      <Text Style="AllCaps">patrons</Text>
+      <Text> raise their manure-laced bills.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="f0b9b348-5abe-4bf7-a310-680ad7afe924">
+      <Text Style="AllCaps">Rau</Text>
+      <Text> smiles.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="5eb295d8-43ab-400a-b061-d758a7a07451">
+      <Text Style="AllCaps">Ext. Salontro - Continuous</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="c54d821a-d7a3-43be-b485-e0fb3cd76333">
+      <Text>Plants are flocking towards Salontro.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="621eecb0-a914-4dc9-a9ca-c9299647bbe1">
+      <Text Style="AllCaps">Dirty City - Various Locations - Continuous</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="04b0fcba-edbc-4521-8824-8eec5b9fc393">
+      <Text>Plants everywhere are watching </Text>
+      <Text Style="AllCaps">Rau</Text>
+      <Text>’s </Text>
+      <Text Style="Italic">Herbivores Trough</Text>
+      <Text> episode on TV and their computers.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="4049ef14-2038-411d-9438-e8c446990381">
+      <Text Style="AllCaps">Ext. Department of Garden Security Headquarters - Day</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="98a6285a-0613-4440-b5f1-f8e8a1265102">
+      <Text>This tree-like building is located in Woodwork’s capital.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="6b953941-8170-4b47-8b71-eb76b08d6038">
+      <Text Style="AllCaps">Int. Department of Garden Security Headquarters - Continuous</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="b7f65ffd-7457-44c6-b224-38315823b557">
+      <Text>Two </Text>
+      <Text Style="AllCaps">office workers</Text>
+      <Text> watch the bee-induced chaos in </Text>
+      <Text Style="AllCaps">Rau</Text>
+      <Text>’s </Text>
+      <Text Style="Italic">Herbivore Trough</Text>
+      <Text> episode on a tablet. They laugh.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="8805ba41-06b9-469c-ad78-ed95942b9614">
+      <Text>Rhizo (O.S.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="dde27d0f-4b4b-4d8e-a187-2bab5a4d1d26">
+      <Text>Where’s the edit? We need the ASMR video of SAPP officers arresting transplants for the Green House social media.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="a9045ec6-69e0-4b61-8fb2-547a71dec114">
+      <Text>Secretary of Garden Secretary </Text>
+      <Text Style="AllCaps">Rhizo</Text>
+      <Text> enters.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="b94afe09-81c5-44b8-9a4a-d65ff57b1b26">
+      <Text>RhizO</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="6817ee28-10cd-4fa6-8f7d-ffc7d1c1b935">
+      <Text>Are you watching another video of invasives species getting uprooted?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="533b9a5f-740f-4ae7-ab24-e838dd804a86">
+      <Text>Worker 1</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="7458276e-9bcd-428d-90c9-f38d27466b7f">
+      <Text>No. It’s a clip from </Text>
+      <Text Style="Italic">Herbivore Trough</Text>
+      <Text>.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="22fa0155-d300-4ccf-ac8d-2223d7a97612">
+      <Text>Worker 2</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="fe13f51f-4679-4ceb-bb04-3236f09d6608">
+      <Text>A bee got into the studio and started attacking the herbivores.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="f7fa26ca-50b5-4553-afc4-d93c2df99418">
+      <Text Style="AllCaps">Rhizo</Text>
+      <Text> watches the tablet.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="7e859a6e-c843-46ff-9c0a-82f2d1332c11">
+      <Text>Worker 2</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="64b120a7-14cf-42ab-b163-dbf813daf851">
+      <Text>Buzz. Am I right?</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="10554907-fea6-482e-ae49-d45791945ae6">
+      <Text>The </Text>
+      <Text Style="AllCaps">workers</Text>
+      <Text> laugh.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="f23b1ca3-47a7-4dbf-8901-74826af9faca">
+      <Text>Rhizo</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="3f9054e8-3c26-47f9-be67-8e5644744a25">
+      <Text>Left arrow.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="1148af85-7ff8-4161-b6f2-9d82c89d7126">
+      <Text>Worker 1</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="7befd404-d913-4c03-b9a2-1910ed671b63">
+      <Text>Rewind?</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="aeb484d8-167d-4f6c-a581-2416883ea13e">
+      <Text AdornmentStyle="-1" Style="AllCaps">Rhizo</Text>
+      <Text> nods. They stop the tablet on a frame with </Text>
+      <Text Style="AllCaps">Rau</Text>
+      <Text>.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="de1b0148-7441-43d5-bd3d-9994935a2e34">
+      <Text AdornmentStyle="-1">Rhizo</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="c1b0b9f8-12c4-46cb-a2d8-5f09a8e12142">
+      <Text>I know her... She was my very first case file.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="1065dd5a-920c-45df-8438-44bdba8209a5">
+      <Text AdornmentStyle="-1" Style="AllCaps">Rhizo</Text>
+      <Text> looks at the video details.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="69de4922-b104-4dbd-86a2-4ca9de740dab">
+      <Text AdornmentStyle="-1">Rhizo</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="64e0e5e9-59d4-4868-8718-c7418ee9f4da">
+      <Text>Rau Ram... Hmm... Where is she?</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="cc3349ff-d1c7-4733-801c-e791410112ed">
+      <Text AdornmentStyle="-1" Style="AllCaps">Rhizo</Text>
+      <Text> looks on with curiosity.</Text>
+    </Paragraph>
+    <Paragraph Type="Transition" id="a15cac97-4664-48aa-8727-b4a885ddc171">
+      <Text>Match cut to:</Text>
+    </Paragraph>
+  </Content>
+
+  <Watermarking Opacity="70" Position="Diagonal Descending">
+    <DynamicContent>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="1" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+    </DynamicContent>
+    <Distribution>
+      <Name></Name>
+    </Distribution>
+    <WatermarkImage Height="144"></WatermarkImage>
+  </Watermarking>
+
+  <HeaderAndFooter FooterFirstPage="Yes" FooterVisible="No" HeaderFirstPage="Yes" HeaderVisible="Yes" StartingPage="1">
+    <Header>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" OutlineLevel="1" RightIndent="-1.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">     Photosynthesis</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">	       "Greenlight"      </Text>
+        <DynamicLabel AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="" Type="Active Revision"/>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">	</Text>
+        <DynamicLabel AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="" Type="Page #"/>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">.</Text>
+        <Tabstops>
+          <Tabstop Position="4.50" Type="Center"/>
+          <Tabstop Position="7.25" Type="Right"/>
+        </Tabstops>
+      </Paragraph>
+    </Header>
+    <Footer>
+      <Paragraph Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" OutlineLevel="1" RightIndent="-1.25" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> </Text>
+      </Paragraph>
+    </Footer>
+  </HeaderAndFooter>
+
+  <SpellCheckIgnoreLists>
+    <IgnoredRanges/>
+    <IgnoredWords/>
+  </SpellCheckIgnoreLists>
+
+  <PageLayout BackgroundColor="#FFFFFFFFFFFF" BottomMargin="72" BreakDialogueAndActionAtSentences="Yes" DocumentLeading="Normal" FooterMargin="36" ForegroundColor="#000000000000" HeaderMargin="36" InvisiblesColor="#808080808080" TopMargin="72" UsesSmartQuotes="Yes">
+    <PageSize Height="11.00" Width="8.50"/>
+    <AutoCastList AddParentheses="Yes" AutomaticallyGenerate="Yes" CastListElement="Cast List"/>
+  </PageLayout>
+
+  <WindowState Height="635" Left="2" Mode="Maximized" Top="2" Width="649"/>
+
+  <TextState Scaling="110" Selection="0,0" ShowInvisibles="No"/>
+
+  <ElementSettings Type="General">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No" Type="General"/>
+    <Behavior PaginateAs="General" ReturnKey="General" Shortcut="0" WinShortcut="0"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Scene Heading">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="24" Spacing="1" StartsNewPage="No" Type="Scene Heading"/>
+    <Behavior PaginateAs="Scene Heading" ReturnKey="Action" Shortcut="1" WinShortcut="1"/>
+    <Outline CanHide="No" Level="2"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Action">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Action"/>
+    <Behavior PaginateAs="Action" ReturnKey="Action" Shortcut="2" WinShortcut="2"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Character">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.50" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character"/>
+    <Behavior PaginateAs="Character" ReturnKey="Dialogue" Shortcut="3" WinShortcut="3"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Parenthetical">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Left" FirstIndent="-0.10" Leading="Regular" LeftIndent="3.00" RightIndent="5.50" SpaceBefore="0" Spacing="1" StartsNewPage="No" Type="Parenthetical"/>
+    <Behavior PaginateAs="Parenthetical" ReturnKey="Dialogue" Shortcut="4" WinShortcut="4"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Dialogue">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="2.50" RightIndent="6.00" SpaceBefore="0" Spacing="1" StartsNewPage="No" Type="Dialogue"/>
+    <Behavior PaginateAs="Dialogue" ReturnKey="Action" Shortcut="5" WinShortcut="5"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Transition">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="5.50" RightIndent="7.10" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Transition"/>
+    <Behavior PaginateAs="Transition" ReturnKey="Scene Heading" Shortcut="6" WinShortcut="6"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Shot">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Shot"/>
+    <Behavior PaginateAs="Scene Heading" ReturnKey="Action" Shortcut="7" WinShortcut="7"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Cast List">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No" Type="Cast List"/>
+    <Behavior PaginateAs="Action" ReturnKey="Action" Shortcut="8" WinShortcut="8"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="New Act">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+Underline+AllCaps"/>
+    <ParagraphSpec Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="Yes" Type="New Act"/>
+    <Behavior PaginateAs="Scene Heading" ReturnKey="Scene Heading" Shortcut="9" WinShortcut="9"/>
+    <Outline CanHide="No" Level="6"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Sequence">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+Underline+AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.50" SpaceBefore="24" Spacing="1" StartsNewPage="No" Type="Sequence"/>
+    <Behavior PaginateAs="Scene Heading" ReturnKey="Scene Heading" Shortcut="Ctrl+8" WinShortcut="Shift+8"/>
+    <Outline CanHide="No" Level="4"/>
+  </ElementSettings>
+
+  <ElementSettings Type="End of Act">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+Underline+AllCaps"/>
+    <ParagraphSpec Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="24" Spacing="1" StartsNewPage="No" Type="End of Act"/>
+    <Behavior PaginateAs="Character" ReturnKey="New Act" Shortcut="Ctrl+9" WinShortcut="Shift+9"/>
+    <Outline CanHide="No" Level="6"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Summary">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#87878F8FE0E0" Font="Arial" RevisionID="0" Size="12" Style="HiddenText"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.88" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Summary"/>
+    <Behavior PaginateAs="Outline Body" ReturnKey="Summary" Shortcut="Ctrl+0" WinShortcut="Shift+0"/>
+    <Outline CanHide="Yes" Level="0"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Outline 1">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#87878F8FE0E0" Font="Arial" RevisionID="0" Size="16" Style="Bold+HiddenText"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.88" RightIndent="7.50" SpaceBefore="16" Spacing="1" StartsNewPage="No" Type="Outline 1"/>
+    <Behavior PaginateAs="Outline" ReturnKey="Summary" Shortcut="Ctrl+1" WinShortcut="Shift+1"/>
+    <Outline CanHide="Yes" Level="7"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Outline 2">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#87878F8FE0E0" Font="Arial" RevisionID="0" Size="14" Style="Bold+HiddenText"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.13" RightIndent="7.50" SpaceBefore="14" Spacing="1" StartsNewPage="No" Type="Outline 2"/>
+    <Behavior PaginateAs="Outline" ReturnKey="Summary" Shortcut="Ctrl+2" WinShortcut="Shift+2"/>
+    <Outline CanHide="Yes" Level="5"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Outline 3">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#87878F8FE0E0" Font="Arial" RevisionID="0" Size="12" Style="Bold+HiddenText"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.38" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Outline 3"/>
+    <Behavior PaginateAs="Outline" ReturnKey="Summary" Shortcut="Ctrl+3" WinShortcut="Shift+3"/>
+    <Outline CanHide="Yes" Level="3"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Note">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#87878F8FE0E0" Font="Arial" RevisionID="0" Size="12" Style="Italic+HiddenText"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.63" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Note"/>
+    <Behavior PaginateAs="Outline" ReturnKey="Summary" Shortcut="Ctrl+4" WinShortcut="Shift+4"/>
+    <Outline CanHide="Yes" Level="1"/>
+  </ElementSettings>
+
+  <TitlePage>
+    <HeaderAndFooter FooterFirstPage="Yes" FooterVisible="No" HeaderFirstPage="No" HeaderVisible="Yes" StartingPage="1">
+      <Header>
+        <Paragraph Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" OutlineLevel="1" RightIndent="-1.25" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <DynamicLabel AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="" Type="Page #"/>
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">.</Text>
+        </Paragraph>
+      </Header>
+      <Footer>
+        <Paragraph Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" OutlineLevel="1" RightIndent="-1.25" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      </Footer>
+    </HeaderAndFooter>
+    <Content>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">Photosynthesis</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Pilot: "Greenlight"</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">by</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">David Quang Pham</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Revised Draft</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">12/12/2025</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">512 W 158th St #2 New York, New York 10032</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">david</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="4" Style=""> </Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">@</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="4" Style=""> </Text>
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">flavorpictures</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">.</Text>
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">com</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">616 818 5413</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">Series</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">In the heart of Dirty City, a photogenic young herb and his pear best friend navigate the musical misadventures hidden underneath the soil while scrambling to keep his mother’s salon, </Text>
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Salontro</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">, from being uprooted.</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">Episode</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">At </Text>
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Salontro</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">, Parsley and Pyrus accidentally give a reality TV producer glamorous Greenlight highlights, landing them a deal with Green Entertainment Television. To save the salon and secure his mother’s future, Parsley must fake this miracle for the cameras, only to discover the treatment causes </Text>
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">cytorrhysis</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">, meaning their superstar mint client will literally blow up on national TV.</Text>
+      </Paragraph>
+    </Content>
+    <TextState Scaling="100" Selection="0,0" ShowInvisibles="No"/>
+  </TitlePage>
+
+  <SmartType>
+    <Characters>
+      <Character>Aardvark</Character>
+      <Character>AarDVARKs</Character>
+      <Character>Acadia</Character>
+      <Character>AcADIA &amp; Cát</Character>
+      <Character>AcaDIA &amp; CÁT
+</Character>
+      <Character>Amami Rabbits</Character>
+      <Character>ATV</Character>
+      <Character>Bombus</Character>
+      <Character>Campers</Character>
+      <Character>CUC</Character>
+      <Character>Cát</Character>
+      <Character>Dino</Character>
+      <Character>Horseshoe Crabs</Character>
+      <Character>Host</Character>
+      <Character>Kooky</Character>
+      <Character>Kudzu Lubata</Character>
+      <Character>Oci</Character>
+      <Character>Oci, Parsley, Pyrus</Character>
+      <Character>Officer</Character>
+      <Character>Parsley</Character>
+      <Character>Parsley, Pyrus, Oci</Character>
+      <Character>Phone</Character>
+      <Character>Piper Bell</Character>
+      <Character>Producer</Character>
+      <Character>Pyrus</Character>
+      <Character>Rau</Character>
+      <Character>Researcher 1</Character>
+      <Character>Researcher 2</Character>
+      <Character>Zea Mays</Character>
+      <Character>Tom Solan</Character>
+      <Character>Bella Donna</Character>
+      <Character>Verbena</Character>
+      <Character>Rose</Character>
+      <Character>Tulip</Character>
+      <Character>PYRUS &amp; PARSLEY</Character>
+      <Character>THUJA</Character>
+      <Character>Lami</Character>
+      <Character>MALUS</Character>
+    </Characters>
+    <Extensions>
+      <Extension>(V.O.)</Extension>
+      <Extension>(O.S.)</Extension>
+      <Extension>(O.C.)</Extension>
+      <Extension>(SUBTITLE)</Extension>
+      <Extension>(TEXT)</Extension>
+      <Extension>(Phone)</Extension>
+      <Extension>(Pre-lap)</Extension>
+    </Extensions>
+    <SceneIntros Separator=". ">
+      <SceneIntro>INT</SceneIntro>
+      <SceneIntro>EXT</SceneIntro>
+      <SceneIntro>I/E</SceneIntro>
+    </SceneIntros>
+    <Locations>
+      <Location>LIVING ISLAND</Location>
+      <Location>HAIPHONG HOSPITAL</Location>
+      <Location>UNDERWATER</Location>
+      <Location>OCEAN</Location>
+      <Location>CÁT'S ROOM IN HAIPHONG HOSPITAL</Location>
+      <Location>FOSSIL ISLAND</Location>
+      <Location>SEA</Location>
+      <Location>TALK SHOW SET, STAGE</Location>
+      <Location>BANG-LEVIN BIOLOGICAL STATION</Location>
+      <Location>BANG-LEVIN BIOLOGICAL STATION LAB</Location>
+      <Location>CÚC PHUONG NATIONAL PARK, VIETNAM</Location>
+      <Location>BANG-LEVIN BIOLOGICAL STATION LIBRARY</Location>
+      <Location>CÚC PHUONG NATIONAL PARK DOCK</Location>
+      <Location>FOSSIL ISLAND BEACH</Location>
+      <Location>BANG-LEVIN BIOLOGICAL STATION STAIRCASE</Location>
+      <Location>BANG-LEVIN BIOLOGICAL STATION PARKING LOT</Location>
+      <Location>HIGHWAY</Location>
+      <Location>FOSSIL ISLAND CLIFF</Location>
+      <Location>PORT NEWARK</Location>
+      <Location>EAST COAST</Location>
+      <Location>FOSSIL ISLAND BAY / EXT. UNDERWATER</Location>
+      <Location>BANG-LEVIN BIOLOGICAL STATION LOBBY</Location>
+      <Location>FOSSIL ISLAND - BAY &amp; UNDERWATER</Location>
+      <Location>BANG-LEVIN BIOLOGICAL STATION - LAB</Location>
+      <Location>BANGOR RACEWAY</Location>
+      <Location>CONTAINER</Location>
+      <Location>CARGO SHIP - BRIDGE</Location>
+      <Location>CARGO SHIP</Location>
+      <Location>GREEN ROOM</Location>
+      <Location>FOSSIL ISLAND - UNDERWATER</Location>
+      <Location>CAR</Location>
+      <Location>DEARBORN CAR</Location>
+      <Location>FRESH GROUND CAMPGROUND</Location>
+      <Location>FRESH GROUND FIREFLY PIT</Location>
+      <Location>FRESH GROUND TRAIL</Location>
+      <Location>FRESH GROUND BARN</Location>
+      <Location>DIRTY CITY</Location>
+      <Location>BEETLE CAR</Location>
+      <Location>SALONTRO</Location>
+      <Location>SALONTRO / FIGLEAF</Location>
+    </Locations>
+    <TimesOfDay Separator=" - ">
+      <TimeOfDay>DAY</TimeOfDay>
+      <TimeOfDay>NIGHT</TimeOfDay>
+      <TimeOfDay>AFTERNOON</TimeOfDay>
+      <TimeOfDay>MORNING</TimeOfDay>
+      <TimeOfDay>EVENING</TimeOfDay>
+      <TimeOfDay>LATER</TimeOfDay>
+      <TimeOfDay>MOMENTS LATER</TimeOfDay>
+      <TimeOfDay>CONTINUOUS</TimeOfDay>
+      <TimeOfDay>THE NEXT DAY</TimeOfDay>
+      <TimeOfDay>MAGIC HOUR</TimeOfDay>
+      <TimeOfDay>DAWN</TimeOfDay>
+      <TimeOfDay>DUSK</TimeOfDay>
+      <TimeOfDay>SAME</TimeOfDay>
+      <TimeOfDay>SAME TIME</TimeOfDay>
+      <TimeOfDay>MINUTES LATER</TimeOfDay>
+      <TimeOfDay>HOURS LATER</TimeOfDay>
+      <TimeOfDay>PRESENT</TimeOfDay>
+    </TimesOfDay>
+    <Transitions>
+      <Transition>CUT TO:</Transition>
+      <Transition>FADE IN:</Transition>
+      <Transition>FADE OUT.</Transition>
+      <Transition>FADE TO:</Transition>
+      <Transition>DISSOLVE TO:</Transition>
+      <Transition>BACK TO:</Transition>
+      <Transition>MATCH CUT TO:</Transition>
+      <Transition>JUMP CUT TO:</Transition>
+      <Transition>FADE TO BLACK.</Transition>
+      <Transition>SMASH CUT TO:</Transition>
+      <Transition>CUT TO BLACK.</Transition>
+      <Transition>TIME CUT:</Transition>
+      <Transition>FADE OUT</Transition>
+    </Transitions>
+  </SmartType>
+
+  <MoresAndContinueds>
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <DialogueBreaks AutomaticCharacterContinueds="Yes" BottomOfPage="Yes" DialogueBottom="(MORE)" DialogueTop="(CONT'D)" TopOfNext="Yes"/>
+    <SceneBreaks ContinuedNumber="No" SceneBottom="(CONTINUED)" SceneBottomOfPage="No" SceneTop="CONTINUED:" SceneTopOfNext="No"/>
+  </MoresAndContinueds>
+
+  <LockedPages/>
+
+  <Revisions ActiveSet="1" Location="7.75" RevisionMode="No" RevisionsShown="Active" ShowPageColor="No">
+    <Revision FullRevision="No" ID="1" Mark="*" Name="12/12/25" PageColor="#C6C6EDEDFEFE" Style=""/>
+    <Revision FullRevision="No" ID="2" Mark="*" Name="Pink Rev. (mm/dd/yy)" PageColor="#FDFDCCCCD4D4" Style=""/>
+    <Revision FullRevision="No" ID="3" Mark="*" Name="Yellow Rev. (mm/dd/yy)" PageColor="#FDFDFFFFABAB" Style=""/>
+    <Revision FullRevision="No" ID="4" Mark="*" Name="Green Rev. (mm/dd/yy)" PageColor="#D1D1FEFED0D0" Style=""/>
+    <Revision FullRevision="No" ID="5" Mark="*" Name="Goldenrod Rev. (mm/dd/yy)" PageColor="#FAFACDCD3939" Style=""/>
+    <Revision FullRevision="No" ID="6" Mark="*" Name="Buff Rev. (mm/dd/yy)" PageColor="#FCFCEDED9D9D" Style=""/>
+    <Revision FullRevision="No" ID="7" Mark="*" Name="Salmon Rev. (mm/dd/yy)" PageColor="#F8F8AEAE8E8E" Style=""/>
+    <Revision FullRevision="No" ID="8" Mark="*" Name="Cherry Rev. (mm/dd/yy)" PageColor="#FBFBA4A4B4B4" Style=""/>
+    <Revision FullRevision="No" ID="9" Mark="*" Name="Tan Rev. (mm/dd/yy)" PageColor="#FDFDF1F1C7C7" Style=""/>
+    <Revision FullRevision="No" ID="10" Mark="*" Name="2nd White Rev. (mm/dd/yy)" PageColor="#FFFFFFFFFFFF" Style=""/>
+    <Revision FullRevision="No" ID="11" Mark="*" Name="2nd Blue Rev. (mm/dd/yy)" PageColor="#C6C6EDEDFEFE" Style=""/>
+    <Revision FullRevision="No" ID="12" Mark="*" Name="2nd Pink Rev. (mm/dd/yy)" PageColor="#FDFDCCCCD4D4" Style=""/>
+    <Revision FullRevision="No" ID="13" Mark="*" Name="2nd Yellow Rev. (mm/dd/yy)" PageColor="#FDFDFFFFABAB" Style=""/>
+    <Revision FullRevision="No" ID="14" Mark="*" Name="2nd Green Rev. (mm/dd/yy)" PageColor="#D1D1FEFED0D0" Style=""/>
+    <Revision FullRevision="No" ID="15" Mark="*" Name="2nd Goldenrod Rev. (mm/dd/yy)" PageColor="#FAFACDCD3939" Style=""/>
+    <Revision FullRevision="No" ID="16" Mark="*" Name="2nd Buff Rev. (mm/dd/yy)" PageColor="#FCFCEDED9D9D" Style=""/>
+    <Revision FullRevision="No" ID="17" Mark="*" Name="2nd Salmon Rev. (mm/dd/yy)" PageColor="#F8F8AEAE8E8E" Style=""/>
+    <Revision FullRevision="No" ID="18" Mark="*" Name="2nd Cherry Rev. (mm/dd/yy)" PageColor="#FBFBA4A4B4B4" Style=""/>
+    <Revision FullRevision="No" ID="19" Mark="*" Name="2nd Tan Rev. (mm/dd/yy)" PageColor="#FDFDF1F1C7C7" Style=""/>
+  </Revisions>
+
+  <SplitState ActivePanel="1" CardsAcross="2" ShowAction="Yes" ShowSceneTitle="Yes" ShowSummary="Yes" SplitMode="None" SplitterPosition="1358">
+    <ScriptPanel DisplayMode="Page">
+      <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style=""/>
+    </ScriptPanel>
+  </SplitState>
+
+  <Macros>
+    <Macro Element="Scene Heading" Name="INT" Shortcut="Ctrl+Alt+1" Text="INT. " Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="EXT" Shortcut="Ctrl+Alt+2" Text="EXT. " Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="I/E" Shortcut="Ctrl+Alt+3" Text="I/E " Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="DAY" Shortcut="Ctrl+Alt+4" Text=" - DAY" Transition="Action">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="NIGHT" Shortcut="Ctrl+Alt+5" Text=" - NIGHT" Transition="Action">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="SUNRISE" Shortcut="Ctrl+Alt+6" Text=" - SUNRISE" Transition="Action">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="MAGIC" Shortcut="Ctrl+Alt+7" Text=" - MAGIC" Transition="Action">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Parenthetical" Name="CONT" Shortcut="Ctrl+Alt+8" Text="continuing" Transition="Dialogue">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Parenthetical" Name="INTER" Shortcut="Ctrl+Alt+9" Text="interrupting" Transition="Dialogue">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="None" Name="" Shortcut="Ctrl+Alt+0" Text="" Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="CUTTO" Shortcut="Ctrl+Shift+Alt+1" Text="CUT TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Action" Name="FADEIN" Shortcut="Ctrl+Shift+Alt+2" Text="FADE IN:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="FADEOUT" Shortcut="Ctrl+Shift+Alt+3" Text="FADE OUT." Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="FADETO" Shortcut="Ctrl+Shift+Alt+4" Text="FADE TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="DISSLV" Shortcut="Ctrl+Shift+Alt+5" Text="DISSOLVE TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="BACKTO" Shortcut="Ctrl+Shift+Alt+6" Text="BACK TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="MATCHCUT" Shortcut="Ctrl+Shift+Alt+7" Text="MATCH CUT TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="JUMPCUT" Shortcut="Ctrl+Shift+Alt+8" Text="JUMP CUT TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="FBLACK" Shortcut="Ctrl+Shift+Alt+9" Text="FADE TO BLACK." Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="None" Name="" Shortcut="E" Text="" Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+  </Macros>
+
+  <Actors>
+    <Actor MacVoice="" Name="Man 1" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Man 2" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Woman 1" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Woman 2" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Boy 1" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Boy 2" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Girl 1" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Girl 2" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Old Man" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Old Woman" Pitch="Normal" Speed="Medium" WinVoice=""/>
+  </Actors>
+
+  <Cast>
+    <Narrator Actor="Man 1">
+      <Element Type="Character"/>
+      <Element Type="Dialogue"/>
+    </Narrator>
+    <Member Actor="" Character="Aardvark"/>
+    <Member Actor="" Character="AarDVARKs"/>
+    <Member Actor="" Character="Acadia"/>
+    <Member Actor="" Character="AcADIA &amp; Cát"/>
+    <Member Actor="" Character="AcaDIA &amp; CÁT&#xA;"/>
+    <Member Actor="" Character="Amami Rabbits"/>
+    <Member Actor="" Character="ATV"/>
+    <Member Actor="" Character="Bombus"/>
+    <Member Actor="" Character="Campers"/>
+    <Member Actor="" Character="CUC"/>
+    <Member Actor="" Character="Cát"/>
+    <Member Actor="" Character="Dino"/>
+    <Member Actor="" Character="Horseshoe Crabs"/>
+    <Member Actor="" Character="Host"/>
+    <Member Actor="" Character="Kooky"/>
+    <Member Actor="" Character="Kudzu Lubata"/>
+    <Member Actor="" Character="Oci"/>
+    <Member Actor="" Character="Oci, Parsley, Pyrus"/>
+    <Member Actor="" Character="Officer"/>
+    <Member Actor="" Character="Parsley"/>
+    <Member Actor="" Character="Parsley, Pyrus, Oci"/>
+    <Member Actor="" Character="Phone"/>
+    <Member Actor="" Character="Piper Bell"/>
+    <Member Actor="" Character="Producer"/>
+    <Member Actor="" Character="Pyrus"/>
+    <Member Actor="" Character="Rau"/>
+    <Member Actor="" Character="Researcher 1"/>
+    <Member Actor="" Character="Researcher 2"/>
+    <Member Actor="" Character="Zea Mays"/>
+    <Member Actor="" Character="Tom Solan"/>
+    <Member Actor="" Character="Bella Donna"/>
+    <Member Actor="" Character="Verbena"/>
+    <Member Actor="" Character="Rose"/>
+    <Member Actor="" Character="Tulip"/>
+    <Member Actor="" Character="PYRUS &amp; PARSLEY"/>
+    <Member Actor="" Character="THUJA"/>
+    <Member Actor="" Character="Lami"/>
+    <Member Actor="" Character="MALUS"/>
+  </Cast>
+
+  <SceneNumberOptions LeftLocation="0.75" NumberScheme="1A" RightLocation="7.38" ShowNumbersOnLeft="Yes" ShowNumbersOnRight="Yes">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+  </SceneNumberOptions>
+
+  <CastList SortOption="Alphabetical">
+    <CustomOrder/>
+  </CastList>
+
+  <CharacterHighlighting>
+    <Character Color="#RRRRGGGGBBBB" Name="ANNOUNCER" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="BOMBUS" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="CUBANA" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="DANDY" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="DIRECTOR" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="GOURDON" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="MAY HAWTHORN" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="PARSLEY" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="PATRON" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="PRICK" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="PRODUCTION ASSISTANT" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="PYRUS" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="RAU" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="RHIZO" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="SECURITY GUARD" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="WORKER 1" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="WORKER 2" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="ZEA MAYS" Visible="No"/>
+  </CharacterHighlighting>
+
+  <ScriptNavigatorPreferences>
+    <TableColumnSettings Filter="" IsSortAscending="Yes" Label="Script" SortColumn="Order" TableIdentifier="NavDynScenes" id="756b1668-c339-4fe9-a227-b968da86e94d"/>
+  </ScriptNavigatorPreferences>
+
+  <AltCollection/>
+
+  <TargetScriptLength>120</TargetScriptLength>
+
+  <ListItems/>
+
+  <DisplayBoards>
+    <DisplayBoard Height="10000" Id="ea5ac6af-4926-415c-897c-51bfeff25831" ScrollOrigin="0,0" Type="Beat" Width="24000" ZoomLevel="100.000"/>
+    <DisplayBoard Height="90" Id="f54e428f-4469-484b-8c9d-7dba54866258" ScrollOrigin="200,0" Type="StoryMap" Width="14600" ZoomLevel="730.000">
+      <Lanes>
+        <Lane Id="c182cd4e-ef72-4f4c-b3ca-a866f235b80d" Label="Outline 1" Level="7" Type="Outline 1"/>
+        <Lane Id="9f25c9a1-6c03-4a2d-a974-0d73c8d529c8" Label="Outline 2" Level="5" Type="Outline 2"/>
+      </Lanes>
+    </DisplayBoard>
+  </DisplayBoards>
+
+  <Writers/>
+
+  <WriterMarkup State="Off"/>
+
+  <TagData>
+    <TagCategories>
+      <TagCategory Color="#00003600B700" Id="01fc9642-84ff-4366-b37c-a3068dee57e8" Name="Cast Members" Number="2" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="028a4e2b-b507-4d09-88ab-90e3edae9071" Name="Background Actors" Number="3" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="0377dbe6-77a3-41af-bda8-86eb2468fdbf" Name="Stunts" Number="4" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="04721a56-f54b-49c8-80ad-d53887d6b851" Name="Vehicles" Number="5" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="05c556eb-6bc1-4a3a-b09f-f8b5ba1b6afa" Name="Props" Number="6" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="069e18b8-2109-4f3d-94e7-d802027a60a8" Name="Special Effects" Number="8" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="0726fa85-1e65-4ab8-87de-bf21d09b01f0" Name="Wardrobe" Number="9" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="08ae1eef-32ce-415f-9a9b-0982d2453ec4" Name="Makeup/Hair" Number="10" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="09cb0d1c-ce01-4f22-bb64-b5f2e6c491c6" Name="Animals" Number="11" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="0ae40617-cc7c-48e6-ae2b-5aaecc09986f" Name="Animal Wrangler" Number="12" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="0b0b44c9-aa4b-4c40-88b1-d94472ad7a26" Name="Music" Number="13" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="0ce7d308-096d-4603-8fe8-349f72cd89ff" Name="Sound" Number="15" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="0debb71b-5743-4c53-80cc-e17e841ce645" Name="Set Dressing" Number="17" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="0e7a8fc5-5441-4bad-a9bf-5ddd3fe51c69" Name="Greenery" Number="18" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="0ff5cda4-4d43-4cfe-940f-91380c46fdad" Name="Special Equipment" Number="19" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="109d0eaa-0334-4823-ac0c-b44d3f209dc4" Name="Security" Number="20" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="1179a4b1-70ee-4011-b4a2-809a0af09e92" Name="Additional Labor" Number="21" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="12ab0932-e3b9-4b4a-bcd0-3da1b4e61d5e" Name="Visual Effects" Number="23" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="135cc9d1-c4d5-4d00-83d9-571f584ea9cd" Name="Mechanical Effects" Number="24" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="15b6f4fd-4e74-4ad8-9971-b239d88c2997" Name="Notes" Number="26" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="216f33fd-fc42-4269-be01-b05b18f815a0" Name="Comments" Number="31" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="47b02ff1-5161-4137-b736-f36eebba7643" Name="Camera" Number="7" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="63c140da-ef2b-491a-b416-b46f461abb89" Name="Script Day" Number="27" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="70877d87-30ef-45b6-be46-c6fa94b83a71" Name="Sequence" Number="29" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="849f1ebf-5507-4f33-bff6-3a5b4d73be14" Name="Unit" Number="28" Style="Bold"/>
+      <TagCategory Color="#000000000000" Id="8e5e75c2-713b-47df-a75f-f12648b98ded" Name="Synopsis" Number="1" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="c5e89e4d-f83e-4c28-950c-92a63f1b5f26" Name="Location" Number="30" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="c86eae40-3b01-41c3-a7de-6859e6ec971d" Name="Art Department" Number="16" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="ce04f547-f7ee-40c9-ab66-d95a0c98034e" Name="Miscellaneous" Number="25" Style="Bold"/>
+    </TagCategories>
+  </TagData>
+
+  <Characters>
+    <CharacterTraitData>
+      <Traits>
+        <Trait ID="a771e8a7-0c6f-401c-ab87-b50f83fc64b4" Name="Age" Type="text"/>
+        <Trait ID="6b3a0017-69de-4c7a-b6e8-1d0b4d2ad047" Name="Disability" Type="text"/>
+        <Trait ID="4b987a9f-24dc-44ae-9bb5-0756485c1c80" Name="Ethnicity" Type="text"/>
+        <Trait ID="611965b7-ffab-41a1-a154-023ea8caf768" Name="Gender" Type="text"/>
+        <Trait ID="9b51b304-a8c0-4277-a841-342b5f84fc65" Name="Occupation" Type="text"/>
+        <Trait ID="ecdbbc67-9a69-40dc-8e9f-745a665ab73a" Name="Orientation" Type="text"/>
+        <Trait ID="338d378b-5235-40ad-8102-0dbe0b32ff84" Name="Role" Type="text"/>
+      </Traits>
+      <Holders/>
+    </CharacterTraitData>
+    <ChartOptions Identifier="InclusivityAnalysis">
+      <FilterSets/>
+    </ChartOptions>
+  </Characters>
+
+  <ScriptNotes/>
+
+  <Navigator>
+    <Tabs>
+      <Tab Selected="Yes" id="756b1668-c339-4fe9-a227-b968da86e94d"/>
+    </Tabs>
+  </Navigator>
+
+  <Images/>
+
+  <Outlines Paragraphs="Show" StructureLines="Hide"/>
+
+</FinalDraft>
