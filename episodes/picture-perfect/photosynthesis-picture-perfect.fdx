@@ -1,0 +1,1974 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<FinalDraft DocumentType="Script" Template="No" Version="6">
+
+  <DocumentRef DateTime="20251226T200114" id="5cf207be-2fb8-4091-8ee3-b83bbdb3a89f">
+    <XRef DateTime="20250719T224917" id="326d3bbb-277d-4966-b8b4-fc0c38660087"/>
+    <XRef DateTime="20250719T225100" id="311bf653-30ed-4d65-a49b-1d9bc7012bab"/>
+    <XRef DateTime="20251226T183821" id="bb93caa9-e934-4cda-aa07-9ccab99bcbbd"/>
+  </DocumentRef>
+
+  <Content>
+    <Paragraph Type="Action" id="e7d4a034-ce3c-4897-b63b-991f7dd19c3b">
+      <Text Style="AllCaps">Begin Main Titles</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="1a28fe51-38f0-4a48-b283-3a03a5ed2811">
+      <Text>The theme song plays over a montage of the series highlights. The sequence ends with a camera </Text>
+      <Text Style="AllCaps">flash</Text>
+      <Text>!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="4a8eea2d-ec8c-4129-966d-dc23d064147f">
+      <Text>A Polaroid camera ejects a photo of the main characters and community. The </Text>
+      <Text Style="AllCaps">Photosynthesis </Text>
+      <Text>title graphic appears embossed on the camera body. On the photo’s white border, handwritten text reads: Created by David Quang Pham (and _).</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="2fbc8814-d1cb-4511-9201-c1272248413d">
+      <Text Style="AllCaps">End Main Titles</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="cdb4022f-d671-4d24-9612-20f7369a1e04">
+      <Text Style="AllCaps">Int. </Text>
+      <Text AdornmentStyle="-1" Style="AllCaps">Salontro</Text>
+      <Text Style="AllCaps"> - Parsley’s Bedroom - Morning</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="1e99490c-f2b0-423c-821f-1951c64f819b">
+      <Text>The group photo flips to reveal a postcard of the </Text>
+      <Text Style="AllCaps">Dirty City</Text>
+      <Text> gateway. Its sign declares: “The Cleanest City in Woodwork.”</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="1e99490c-f2b0-423c-821f-1951c64f819b">
+      <Text>In front, </Text>
+      <Text Style="AllCaps">Parsley Ram</Text>
+      <Text> (11), a sprout in brown overalls with bushy green hair and human-like limbs, poses besides </Text>
+      <Text Style="AllCaps">Pyrus Crabapple</Text>
+      <Text> (13), a pear with limbs in a tan hoodie dress.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="fd38d473-952e-4608-a650-f1676435ce8a">
+      <Text>A pair of green hands layers photos on the floor. A shot of the kids in front of the </Text>
+      <Text AdornmentStyle="-1" Style="AllCaps">Salontro</Text>
+      <Text> salon is placed over Dirty City. Next comes a photo of the </Text>
+      <Text AdornmentStyle="-1" Style="AllCaps">FigLeaf</Text>
+      <Text> nightclub. The hands continue to build a collage, rotating through many snapshots.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="3e2d2824-7c66-4ef5-99fd-e1a1fb700909">
+      <Text>Parsley (O.S.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="5f6a4eaa-778f-4de0-91e8-1dc0fe642f71">
+      <Text>Picture this: a scrapbook of every plot of land we’ve ever visited—</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="638d8325-5051-4fde-a321-73807128b857">
+      <Text>PyrUS (O.S.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="e403fac4-cea8-4a4a-9568-3d9c847ef322">
+      <Text>And ones we've been uprooted from!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="02b2dacf-7483-45a3-9fb4-e769989e5dfb">
+      <Text>PaRSLEY (O.S.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="339cefd4-9683-4446-a712-b889bc80dac5">
+      <Text>Yes, those too. We've seen it all in the nation of Woodwork. From our home at </Text>
+      <Text AdornmentStyle="-1">Salontro</Text>
+      <Text> to the clubs in Dirty City, all the way to Woody Holly. We even pranked President Pumpkin Eater at the Green House! We should cherish these memories.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="83bd3bcb-e227-48d2-b06f-ebe8879f4be5">
+      <Text>PyrUS (O.S.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="de4d3969-e830-455b-bc60-a8dd2bef7ce4">
+      <Text>Boring! Let’s not forget the embarrassing ones, too!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="d6c04b93-038f-4491-ba60-7d0fa4d8b9ef">
+      <Text>A hand slams down a photo of Parsley in awkward gnome-style swim trunks while Pyrus stands by him, laughing hysterically.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="b1c8f126-c7a9-42ab-9a31-0e13ee6293be">
+      <Text>Parsley and Pyrus sit on the floor, buried in seas of photos.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="89ef4ee2-73cb-4a2e-b18d-da88e659ab36">
+      <Text>ParsLEY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="11603ca3-d12b-45b7-bb20-a50f6674767d">
+      <Text>Lucky for you. Lawn gnomes are all the rage.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="a21e39dc-6b8d-4aa5-a9a4-e4dc7e9c9923">
+      <Text>PyrUS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="eada7ac7-c1c2-4e03-ab45-2d8f91d7c521">
+      <Text>Stay mad, lil herb!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="cbb11d7b-b2e9-4694-b245-38f491f57063">
+      <Text>The kids break into a playful fight, swatting at each other with the photos.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="fd0e77de-0554-4b45-abef-cd062c1fdafc">
+      <Text>Across the room, </Text>
+      <Text Style="AllCaps">Bombus</Text>
+      <Text>, a pet bee, curls up in a hive-shaped bed. Once sunlight hits their fuzz, they buzz like an alarm.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="1cb1f669-e393-4596-94fa-15c06d392dd3">
+      <Text>BombUS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="f89917f4-7512-4b88-9b62-60c045d3da9a">
+      <Text>Buzz! Buzz! Buzz! Buzz! Buzz! Buzz!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="d9f74b12-3d6c-4dfe-b441-513b3dfd0ba8">
+      <Text>PyrUS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="4be8d515-656a-4155-9120-dbb16af0b2ea">
+      <Text>Bombus, snooze! </Text>
+      <Text AdornmentStyle="-1">Snoooooozzzzzzeeee</Text>
+      <Text>.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="31fcb143-ea5c-4a67-89c8-cfdea575b30d">
+      <Text>The buzzing stops. Bombus wakes up, gives a shake, and flies around the kids before settling on Pyrus’s head like a hat.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="4e44a91e-14a1-4fe8-b414-f12a1708309f">
+      <Text>RaU (O.S.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="18babc99-aaee-4e2e-bc94-778ecf6b884c">
+      <Text>Ready for school, Parsley?!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="291685dc-592b-4794-beb5-07fce7c9fd69">
+      <Text>The voice belongs to </Text>
+      <Text Style="AllCaps">Rau Ram</Text>
+      <Text>, a warm yet firm salon owner.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="8b072e4a-e111-4e17-9436-0b8f73c7f2a2">
+      <Text>ParslEY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="2c59146e-5ff2-44ed-a888-02068ad0ae9f">
+      <Text>Ready as a plum, mom!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="e9a9d04b-82f5-4540-a0c3-79b7a59714df">
+      <Text>A car honks outside. That’s </Text>
+      <Text Style="AllCaps">Malus Crabapple</Text>
+      <Text>, a flamboyant nightclub owner.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="f18b97ce-fd92-477b-9c16-74739a787e74">
+      <Text>MalUS (O.S.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="6069e126-6a80-4213-a299-3c862d0b06c9">
+      <Text>I ain’t got all day, Pyrus!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="c2583d25-8396-4796-b0ca-020de7e13d0d">
+      <Text>PyRUS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="d8f3b435-2c2f-4cf0-9901-aeeac43f1663">
+      <Text>Shut your wormhole, Malus!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="fbe8c602-b01c-4f2d-8d9f-33627a4e2c51">
+      <Text>ParslEY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="969f4dc5-31b3-456e-a377-62e79a8f8726">
+      <Text>Bud, if I ever spoke to my mom like that, she’d-</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="b1815411-c4a9-4274-a208-3579ec1fd795">
+      <Text>Rau (30s) barges in. She’s a cilantro with red hands and gleaming hair. She wears a look that’s both cheery and scary.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="42acdc2d-c276-4c9b-b245-070c0f6985a5">
+      <Text>RaU</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="7b46d799-d3e7-4c68-ba2a-88d32472a0e1">
+      <Text>She’d what, son?!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="9daf50c8-80a3-4179-8b72-16b0dfd57c61">
+      <Text>PyrUS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="940c0d58-25f0-4eff-b4d4-11a4c8d18d85">
+      <Text>Who needs bullies when you’ve got a tiger plant for a mom?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="ca2abacc-c439-41b3-8b8f-963a76ee1674">
+      <Text>RaU</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="e276d893-00b5-4e51-8eaf-31a20517ff81">
+      <Text>Call me a tiger, huh. Malus will eat you alive keeping them waiting.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="cd2a4015-8c83-4448-ba95-1df076e39a5c">
+      <Text>Rau waves out the window.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="14318bd8-fc05-42be-b368-c5db9f885b34">
+      <SceneProperties Length="1/8" Page="3" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>Ext. </Text>
+      <Text AdornmentStyle="-1">Salontro</Text>
+      <Text> - ContinUOUS</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="7ef5f5b2-9ebe-4fc7-bbf0-d88edf69bdba">
+      <Text>Parked at the curb is a wagon-style car. Malus (50s), a vibrant red apple in a flamboyant suit, leans against the door and waves back with a dramatic flair.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="ef55745e-324e-46f9-a2b6-6baeb47b19d5">
+      <SceneProperties Length="2/8" Page="3" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="RAU">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Int. </Text>
+      <Text AdornmentStyle="-1">Salontro</Text>
+      <Text> - PARSLEY'S BEDROOM - ConTINUOUS</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="bd5edef5-151e-48af-b650-34354a45bc7e">
+      <Text>Rau whips out her Polaroid camera, framing the kids.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="85b96bfb-1395-4f41-9096-a26a233fd209">
+      <Text>RaU</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="f622b1bd-809b-479f-8f06-c5a3a390f6d2">
+      <Text>Don’t soil yourself, especially on school picture day!</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="f622b1bd-809b-479f-8f06-c5a3a390f6d2">
+      <Text Style="AllCaps">Photosynthesis! Photosynthesis! Photo!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="a5f5ef0c-ba49-4b6b-8f18-a2bca9cc6788">
+      <Text Style="AllCaps">Flash</Text>
+      <Text>!</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="de929d82-777f-43dd-a12d-27d60b0fb6f5">
+      <SceneProperties Length="1 6/8" Page="3" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="OCI">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="PARSLEY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="PYRUS">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="RAU">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Ext. </Text>
+      <Text AdornmentStyle="-1">Rootimentary</Text>
+      <Text> School - Day</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="57ecd2e2-05bf-4875-9258-aa3d71e94fb9">
+      <Text>The school is a massive greenhouse built into the hollow of an ancient stump. Ivy walkways connect classrooms, and the playground is a lush sprawl of lily pads and climbing vines.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="468c03e2-2061-46b6-ba9a-eda0ec99f7b3">
+      <Text>Students of every genus imaginable, from tiny succulents to towering sunflowers, bustle with polished leaves and petals.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="7b09bb12-c4f4-456e-9e48-49f1f12a4e26">
+      <Text>In the crowd, Rau adjusts Parsley’s overalls.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="5d0e198d-3e85-43c8-9e51-4c1a5a9c34a8">
+      <Text>RaU</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="17b1cc61-0c82-4af7-8a5d-85b55d00c9c4">
+      <Text>Listen to me. This photo is more important than ever. Make this the best picture day ever.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="f370d0a7-8973-48e9-9d24-64cae4c02d71">
+      <Text>ParslEY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="55f5d925-1aa9-4e85-b651-e05494498ff7">
+      <Text>Mom, relax. Between the sun and the soil, everyday is photosynthesis.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="1011700d-78d2-4579-85a9-02855d6a875a">
+      <Text>RaU</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="89624115-cd11-4f41-beb7-f5655b4270de">
+      <Text>Not this year. Your portrait won’t end up in the bin with the common houseplants. Due to your volunteer work, your picture will be pinned amongst the garden's elite.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="52cd5b51-0162-4442-8ec7-604aa12c4577">
+      <Text AdornmentStyle="-1">Oci</Text>
+      <Text> (O.S.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="5957f98d-bad8-4f6b-830d-3262db8205aa">
+      <Text>Parsley has been a total lifesaver as our star tutor this summer.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="395daa1b-edce-46c7-9ffa-cf35ee3e78ae">
+      <Text>Rau turns to see </Text>
+      <Text AdornmentStyle="-1">OCI</Text>
+      <Text> BASIL standing there. He is an aromatic teacher with a smile that can give any plant a heart. Rau’s eyes sparkle instantly and insanely.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="da80a5d6-ec2a-47e7-89e3-2b1174a6dd6e">
+      <Text AdornmentStyle="-1">Oci</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="dc59627d-5f90-4302-82ee-e589b45fd9df">
+      <Text>Your little sprout is looking sharper than ever, Ms. Ram.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="d0f1f159-6c8c-4699-b53d-1bfcae98c11b">
+      <Text>RaU</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="d742881c-3a13-42af-89cb-d7ea13214387">
+      <Text>Well, I’m just trying to impress you, </Text>
+      <Text AdornmentStyle="-1">Oci</Text>
+      <Text>— I mean! My son is very impressive, Mr. Basil.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="5a12fed5-dffa-41f8-930e-42a26e6493cb">
+      <Text AdornmentStyle="-1">Oci</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="61a53a50-54d3-41c4-b329-5dcedd005795">
+      <Text>I can see where he gets it from.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="b6268bcb-a46a-432a-8560-0793d736d9b0">
+      <Text>Rau blushes uncontrollably, like beet red.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="0cd71b8b-ea6d-4816-9d8a-71f224e2c0a8">
+      <Text AdornmentStyle="-1">Oci</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="8663c9fa-7cfe-4bfc-9892-4c4a01b2f68b">
+      <Text>Oh, hey Pyrus!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="96c1d7b2-2603-4e97-96b3-09dd853955f3">
+      <Text AdornmentStyle="-1">Oci</Text>
+      <Text> swiftly walks away into the crowd of plants.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="f773b492-d580-4fe2-8b96-fcfa2d956ef1">
+      <Text>Pyrus saunters up from behind Rau, looking unimpressed.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="6cb41ab7-28ea-4f60-89fc-19c0061483b2">
+      <Text>Pyrus</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="cb5e580f-c5e0-45d1-b5cf-e80bce8feed0">
+      <Text>Lil herb, you look like a total sneezewort in that outfit!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="1d169575-8e7d-459a-9d6e-8c62c20b3391">
+      <Text>ParslEY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="efc5dee7-1430-47f4-8b5d-cb51534d7a8d">
+      <Text>I always wear this.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="594f810d-98e6-4498-9b89-db6fdfc3a7db">
+      <Text>Rau</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="98af9a87-eff1-49ab-9844-8217844d60cc">
+      <Text>Oh sprouts, look at the time. Must get back to the salon. Got new customers who need some trimming.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="f0e10c13-a908-46e4-ae97-a1fe6a5b8b79">
+      <Text>Rau plants a motherly kiss on Parsley’s bushy hair and hurries off towards the street.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="ca0d40f0-d249-4898-b746-fe21accb5a48">
+      <Text>Pyrus</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="33711a82-4034-4821-b8f5-1f70f723a7e0">
+      <Text>Your mama has it bad for pesto guy.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="eeb16a14-bc5d-4c59-816c-3551c0651b0d">
+      <Text>PARSLEY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="51788738-0b94-46d3-88df-7abca6684047">
+      <Text>Ugh, can we please get through one day without you making it weird?</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="01b1d8d1-63b7-42ee-92fc-e20a17a593a5">
+      <Text>Pyrus leads the way towards the vine-covered entrance of the school. They pass a group of popular Roses, busy misting themselves with glittery dew.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="495b2a11-4b25-4b1e-aa69-fff819cf10d8">
+      <Text>Pyrus</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="ca57d0c7-6ec4-492a-b29a-fdafbe6d23f6">
+      <Text>Careful, Roses! Any more glitter and you'll trigger a solar flare!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="ce403d27-aa2a-4685-81ce-d07f3c9407de">
+      <Text>The Roses show off their thorns in unison. Parsley pulls Pyrus away, heading into the bustling hallway where the lockers are birch logs. They reach a door marked </Text>
+      <Text Style="AllCaps">Studio P</Text>
+      <Text>.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="7f1c0ac5-dcab-49a4-85ea-7295b204d9c7">
+      <SceneProperties Length="1 1/8" Page="5" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="HANDLER">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="PARSLEY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="PYRUS">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Int. </Text>
+      <Text AdornmentStyle="-1">RooTIMENTARY</Text>
+      <Text> SCHOOL - ConTINUOUS</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="fcd6d1e0-fe7a-4736-9d0d-5b2e943cad9c">
+      <Text>A long line of students snakes down the hall. Every few seconds, a flash of light leaks out from underneath the door.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="4579518f-f6ce-459c-84af-42855418f720">
+      <Text>PARSLEY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="ddfbc65d-ec5e-414b-9a33-3476e67d4cec">
+      <Text>Hope my hair stays bushy. Mom says “flat leaves lead to flat lives.”</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="c5f6b9a5-f6ab-4da1-b04d-77ceeedd3fdc">
+      <Text>PYRUS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="558979e4-a283-4d76-97c3-95010d79cdcf">
+      <Text>Lil herb. You look like perfect plant... for a grocery store.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="d832c899-9e88-4a67-9a8e-fee422dde503">
+      <Text>The door creaks open. A student with a wilted petal trudges out, looking defeated.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="c164b281-db74-419c-9c6b-4122c40be542">
+      <Text>Handler (O.S.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="e1d128bd-18c5-434d-9be9-e9386edb9cda">
+      <Text>Pyrus Crabapple.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="568a835a-10fd-47f0-aeb1-2411ea3b51c3">
+      <Text>PyrUS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="50e7cf7e-38f3-4427-bd03-1bc4707c922a">
+      <Text>Huh?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="7420da40-a3d8-4ef4-b438-6a1cab4cd208">
+      <Text>ParSLEY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="e6b5ce3f-faa1-4fe0-953d-12b3bcd5ab3e">
+      <Text>It’s alphabetical order.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="22e46104-8f85-4907-8c10-ece72de2fa52">
+      <Text>PyrUS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="98231b4e-0ec3-432d-b1b4-c6dc00722327">
+      <Text>How am I supposed to know that?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="6ce61c49-e62b-4557-8d07-5bdfa19c549f">
+      <Text>ParSLEY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="9071ebae-bb88-4cbf-a776-75eff037b8d4">
+      <Text>That it’s alphabetical or the ABCs?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="26ac57b5-d2f0-4b59-9de7-14f94d7438b7">
+      <Text>Handler (O.S.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="62b03ddb-43dc-4f0d-8015-848cfbc15c82">
+      <Text>Pyrus Crabapple!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="623f8f5d-0b0d-454c-a186-e068079c7885">
+      <Text>PyRUS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="da36a057-4323-42a0-949c-f11726e2b7b5">
+      <Text>OK gees! Well, </Text>
+      <Text Style="Italic">see</Text>
+      <Text> you on the other side. I think Ram is not too far.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="4c08e77d-237a-4857-9540-b73d902ac374">
+      <Text>ParSLEY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="486a95f7-5363-4020-b92e-798b56c7fc2d">
+      <Text>R is letter 18 out of 26...</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="53c8750a-1b4f-4a34-b3a4-87400f84512a">
+      <Text>PyRUS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="3fb1c2ae-f000-49a9-9c35-49832d74a783">
+      <Text>Sucks to have a foreign last name.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="dacbded3-5c79-4f8c-a5d4-33a0d9d84403">
+      <Text>Pyrus grins before entering the photo room.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="9763f85c-86c4-49a4-8082-912fc4d8d192">
+      <Text>ParsLEY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="ebbbfff9-311e-422e-b62c-d164eaea62cb">
+      <Text>Watch your wormhole, Crabapple!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="51279395-276c-401a-be11-e336d472e4a8">
+      <Text>The long line of students dwindles over time until there is only Parsley and a handful of other students.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="880c0ac3-33cc-46e1-ae98-b58903dd44fa">
+      <Text>HanDLER (O.S.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="9ea8b215-821a-49d9-bad3-b86b20e8ffb4">
+      <Text>Parsley Ram.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="b3964975-9b6e-4350-844b-af08e7ccb054">
+      <Text>Parsley takes a deep breath, smooths out his overalls, and enters the room.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="dfd1d7a8-8575-4ea1-9c22-17e6f3dd2ec2">
+      <SceneProperties Length="1" Page="6" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="PARSLEY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="RAU">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Int. </Text>
+      <Text AdornmentStyle="-1">RootIMENTARY</Text>
+      <Text> SCHOOL - Photo Room - ContinUOUS</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="a5fdade4-4292-47fa-a799-89b67d9c74a8">
+      <Text>The room is dimly lit, except for the studio lights aimed at a solitary stool. A mysterious figure is draped under a black velvet cloth behind a vintage camera.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="32039941-9fc2-4bb0-83e3-c2146cd47e31">
+      <Text>Parsley points towards the stool.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="0e533e0d-93d8-47b8-b0ea-eaf983887a4d">
+      <Text>ParSLEY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="41133720-65b4-410b-9169-f03e768dff44">
+      <Text>Uh, right here?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="ac8b6fb9-4a40-4a00-87e2-d3af3ee3597e">
+      <Text>RaU</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="e31cc9bc-6969-49ae-bc67-80217304bd50">
+      <Text>Center of frame. The attention. Right where you belong, son.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="c617b295-030c-45c2-86e9-25b4b96747f1">
+      <Text>ParsLEY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="2c1afecb-f589-423d-bfd4-ffd12e2c588d">
+      <Text>Mom?!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="93180edf-2035-4b82-b144-12869d0ec115">
+      <Text>Flash!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="212f4d44-63cf-45c6-bd64-33db69a59ec2">
+      <Text>Rau whips the cloth off her head, emerging with a grin.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="a937b3e4-30b3-4777-a112-b4e6c2e2f0db">
+      <Text>RaU</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="cb1e29fb-0ac4-49ec-83be-eac77bce2451">
+      <Text>I’ll call that one: “Shock Value.”</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="0ae38069-f850-4f97-a85d-1777ea09a1df">
+      <Text>ParSLEY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="c8aad896-6812-46c3-908e-30e96d468bf6">
+      <Text>What are you doing here?! You’re supposed to be at </Text>
+      <Text AdornmentStyle="-1">Salontro</Text>
+      <Text>!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="2d8be42c-79c9-404f-95e7-d6a01957b251">
+      <Text>Rau</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="f2b56a2f-ec6e-43fe-8e4f-ba820fd74ebe">
+      <Text>And leave your future to a bad school photo? I’m making sure you stay picture perfect.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="6497c5a5-0fb9-48b6-adec-e2c2437f8013">
+      <Text>ParslEY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="64a0429a-7f62-49e0-b97c-e7c6f5e92aea">
+      <Text>But </Text>
+      <Text AdornmentStyle="-1">but</Text>
+      <Text> </Text>
+      <Text AdornmentStyle="-1">but</Text>
+      <Text> the school hired a professional photographer-</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="64438829-f9a3-4a70-a678-9612a6c9c845">
+      <Text>RaU</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="1d04927d-7f6d-47fb-9900-8063640ef64d">
+      <Text>Yeah, well, the “professional” takes photos like a seedling. I offered to cover their shift. And they can get a </Text>
+      <Text AdornmentStyle="-1">Salontro</Text>
+      <Text> goody bag on their next visit.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="3308dbb4-8e29-4a48-9212-ab1e5ae60cd4">
+      <Text>ParSLEY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="5058de77-1c27-4c54-946f-a8f886010b0f">
+      <Text>You also took Pyrus’s photos?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="43c8e093-7e75-45a7-a033-b5fadfa95d02">
+      <Text>RaU</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="8d4b4d30-0f59-4710-948f-026532ac4942">
+      <Text>They’re in on it.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="dfd1d7a8-8575-4ea1-9c22-17e6f3dd2ec2">
+      <SceneProperties Length="2" Page="7" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="OCI">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="PARSLEY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="PYRUS">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="RAU">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Int. </Text>
+      <Text AdornmentStyle="-1">RootIMENTARY</Text>
+      <Text> SCHOOL - Photo Room - Earlier</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="6f24256c-5d51-4ac6-a7e9-a9b2eb5bc861">
+      <Text>Pyrus looks at the stool then kicks it away. They make a disgusting face towards the camera.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="9bf30535-23d2-47bf-8d5d-ea0a065751a5">
+      <Text>PyRUS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="e6c8a166-4297-46be-96ce-187f786b8f34">
+      <Text>Here comes the photographer’s worst nightmare!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="45fc52e2-f369-4069-ae67-ab886bbd938a">
+      <Text>RaU</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="64ba006b-0558-4b1b-99c4-f4fe3e60dc46">
+      <Text>Pyrus, you’re </Text>
+      <Text Style="Italic">everyone</Text>
+      <Text>’s worst nightmare.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="27634a16-12b9-4568-9057-6840eb19e7d4">
+      <Text>PyRUS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="d31f96f8-ada8-4391-98a4-4e2cc3b0be9f">
+      <Text>Ms. Ram?!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="b916dcfb-a051-4803-aa13-28d356f9d0ed">
+      <Text>RaU</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="dfae2da2-b7da-4c52-bfaa-be8ef1991c4b">
+      <Text>Keep your pedals shut and I’ll let you borrow Parsley’s Touch Grass game console for a week.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="33c104fa-f023-474e-974f-5e50c4131a51">
+      <Text>Pyrus gives a perfect smile.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="b2b7e98c-c25d-4f4f-97df-cfd58974cfa7">
+      <Text>Flash!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="f769da58-3fa7-4558-a455-519d9c28d318">
+      <Text>Rau (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="833841bf-52c8-42b8-96be-959b156545cb">
+      <Text>Gotcha!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="48c968aa-f9e6-4d87-85c0-2379b9f36967">
+      <Text Style="AllCaps">Back to present.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="a5607099-6240-4855-bfc5-7c7aab40bc6b">
+      <Text>ParSLEY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="3e1249c3-91d7-4cd7-8484-19cb0ea90cfe">
+      <Text>Of course, they are in on it...</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="fa2e270f-f851-46d0-a744-1349ba79fa7d">
+      <Text>Rau circles Parsley, snapping photos rapidly.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="b12df83c-21b1-4f7d-8d4a-0761e460027e">
+      <Text>Rau</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="a3a618ae-bbcf-4ee6-96a9-2b3e8540ad15">
+      <Text>Stems up! Leaves out! Don’t let your chlorophyll sag!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="7590272c-d180-4bcb-a392-54c680472ac7">
+      <Text>Parsley</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="34af55ae-309a-456f-a79f-d337168c03c3">
+      <Text>Mom, the whole school can hear you!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="e16a2788-1305-4b65-80fa-0605bf0ad260">
+      <Text>Rau</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="3ed2ab72-9ad8-4793-9dcf-2278970cf4cf">
+      <Text>Good! Let them hear what a masterpiece sounds like!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="9c99794c-4690-4856-a2e5-ecbf8cf4eca3">
+      <Text>Rau kicks a lever on an industrial-sized fan. It roars to life, sending a gale-force wind through the room. Parsley’s hair blows wildly, nearly obscuring his face.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="61fbb840-dc65-45b5-96f8-a6d6d25373aa">
+      <Text>Rau</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="e853fb53-ea44-41e7-990c-92fe22f07e38">
+      <Text>(Shouting over the wind)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="2b00e93e-3118-4700-9118-6aa7e3e551fc">
+      <Text>The wind-swept willow look!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="75816737-c517-4721-9b0a-f9966d571b38">
+      <Text>Parsley</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="51d76c74-def5-4dda-82b0-dfc66e7d299a">
+      <Text>I cannot see! I’m gonna fall off the—</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="289bc43f-3fda-4d20-82cc-37238f351b48">
+      <Text>A Tropical Rainforest screen falls on top of Parsley, while a Mountain Peak screen tangles around Rau.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="3da9f1c7-7ffb-4794-b0b6-ab6af8a52d66">
+      <Text>Rau</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="d6af5b7e-9e97-4a54-afe1-427af4a09730">
+      <Text>(Muffled)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="2086d391-e52b-4af0-880f-78076804330a">
+      <Text>Don’t move, Parsley! The lighting is still perfect!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="be5b0d76-06e1-408a-8090-658b9106cadd">
+      <Text>Parsley</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="6dcd83cd-cd92-4874-8413-cffa7daeb6d7">
+      <Text>The lighting is on fire!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="3cc1513d-30d7-4ad0-96b8-9e8b89bbb176">
+      <Text>A spark from the fallen lamp hits a nearby spray bottle of Leaf Glaze, which ignites like a mini-firework.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="3cc1513d-30d7-4ad0-96b8-9e8b89bbb176">
+      <Text>FLASH! FLASH! FLASH! The camera starts firing on its own, capturing the absolute carnage.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="cd664cdf-5b66-4fb0-bd5f-99d2dd1c2b9e">
+      <Text>Rau ecstatically emerges from the canvas.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="cbe2f97d-de68-4b4c-87c1-b8c16f20d9fd">
+      <Text>Rau</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="b9faab4d-fe6d-4a87-a8cd-731eaea709c8">
+      <Text>Yes! This is it! Your face says “Survival of the Fittest!”</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="768bcc0a-b661-4b53-ae31-af722f46ea76">
+      <Text>The sprinkler system overhead clicks. A second later, the room is hit with a downpour.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="4945d950-8dee-44af-a34f-4f19fa722d26">
+      <Text>Parsley</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="0d964289-8819-4c39-ac6a-122250b84a24">
+      <Text>(Sputtering)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="6abda654-55c6-4d04-89f3-565ef1ef7816">
+      <Text>Mom! We’re being watered in the house!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="bddb8a00-62ce-44e5-b11b-f3ef1b1fe02a">
+      <Text>RAU</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="43e5b70d-75b2-49cf-8b27-167397fb4e52">
+      <Text>Stay poised, Parsley! You’re a cilantro in a storm!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="dcc7dc39-e973-4665-846e-fcee3293f364">
+      <Text>FLASH!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="be48d74a-e62f-4fe8-a9a7-5d65ac1acc91">
+      <Text>The door swings open again. </Text>
+      <Text AdornmentStyle="-1">Oci</Text>
+      <Text> stands there, jaw dropped, as water pours out of the room and into the hallway.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="34551bb7-3db2-499c-8f49-b900a6d5a156">
+      <Text AdornmentStyle="-1">Oci</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="476d411c-8002-45d6-88de-e4fe884c0d52">
+      <Text>Is... everything okay in here?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="cc4a3191-5ee2-4b07-bfdb-b0bdd63ae13a">
+      <Text>Rau</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="96e39e6f-3097-4ae6-b307-01f9a8d4e858">
+      <Text>Better than okay, </Text>
+      <Text AdornmentStyle="-1">Oci</Text>
+      <Text>! We’re making history!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="00ba5ba0-10e7-4ba9-a47f-a9b503109308">
+      <Text>FLASH!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="5c426676-7c3d-4976-b4e6-194077d98376">
+      <Text>The final photo ejects from the camera, showing Parsley soaked, terrified, and accidentally holding a decorative garden gnome that fell from the shelf.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="5f3e21b6-3989-4bd7-b572-251eed91bb9b">
+      <SceneProperties Length="2 7/8" Page="9" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="BOMBUS">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="PARSLEY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="PRINCIPAL SEQUOIA">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="PYRUS">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="RAU">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Int. </Text>
+      <Text AdornmentStyle="-1">ROOTIMENTARY</Text>
+      <Text> SCHOOL - Principal’s Office</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="1dc2702c-aefb-4d0e-984a-ca811e831c82">
+      <Text>A photo of </Text>
+      <Text Style="AllCaps">Principal Sequoia</Text>
+      <Text> hangs outside her office. She is a towering Redwood whose bark-like skin never cracks a smile. Her and Rau’s silhouettes are seen through her office door.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="8d7a25fa-df42-49aa-a12c-17c4c32b3f10">
+      <Text>Principal Sequoia (O.S.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="76c0402f-53bd-4698-ab2a-45b7fa0790a5">
+      <Text>This is the first time we’ve had the parent in the hot seat.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="1d320434-7645-4b20-93c5-476a886bab20">
+      <Text>Rau (O.S.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="d60b36ca-6876-494b-afb8-dc4d8a37e144">
+      <Text>Principal Sequoia, for a seat at </Text>
+      <Text AdornmentStyle="-1">Salontro</Text>
+      <Text>, we can provide your staff a discount.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="4976a908-ead7-4b14-b17c-8711c88e2b83">
+      <Text>Principal Sequoia (O.S.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="da92655e-21c3-4ede-a044-771e9656d17d">
+      <Text>A discount for the destruction of school property? The endangerment of the student body? Or that I found the real photographer tied up in the janitor’s closet?</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="6b483e45-ade1-4be6-9ed5-55416cb491da">
+      <Text>Inside the office, Parsley sits besides Rau. He looks like a drowned herb.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="2899bdfb-69b8-4e29-b1e1-d6ff8c22f269">
+      <Text>Parsley</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="3ae2adf5-a1f0-483b-94f2-571151d33e89">
+      <Text>Mom, please stop talking.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="54c21bd7-26e5-4639-b472-f0f904604511">
+      <Text>Rau</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="d7a47339-41cb-45a3-a451-440db0a34aa2">
+      <Text>They were a hack! Lighting the students like common moss! That photographer probably doesn’t have kids.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="fd01650e-ee2b-4b66-8fa8-ae34db529155">
+      <Text>Principal Sequoia</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="249327a5-1dcc-40b5-8602-249a17322190">
+      <Text>You are trespassing. And your son is currently the only student in </Text>
+      <Text AdornmentStyle="-1">Rootimentary</Text>
+      <Text> history to have a school photo featuring a fire in the background.</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="d2945ade-6d0d-4718-a4b3-f058e9cb40a9">
+      <Text>
+Ms. Ram. Your son's record is no longer picture perfect.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="8f5482fc-3acb-4197-800d-f5d1892cfa76">
+      <Text>Parsley hangs his head, his bushy green hair dripping onto the floor. As they trudge past the Principal, Rau leans in, still clutching her camera.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="7b261c87-b0d8-4f43-aae2-586efd659f9d">
+      <Text>Rau</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="b7e8ffa9-118d-45d8-977a-7df53cc63340">
+      <Text>You’re just jealous because you don’t have no good side, you oversized stump!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="f0ba70a6-f4b0-44b5-b9b8-df51c9f9d232">
+      <Text>Parsley squelches out of the office, leaving a trail of muddy water and charred leaves. The hallway is dead silent until he spots Pyrus leaning against a locker, clutching their belly. Bombus rests on top of them.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="9de29f8b-fa3a-42e0-a547-d9bd2f358706">
+      <Text>Pyrus</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="7f8ec023-aee8-4f23-a39d-c9050a765e92">
+      <Text>(Exploding into laughter)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="f327e948-1cf3-4644-82b9-9407e39b898a">
+      <Text>Oh. My. Sap. Parsley, you look like a salad stuck in a sink drain!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="2d1ceaba-e0ae-4367-b0d6-99accd09c0c0">
+      <Text>Parsley</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="0daff4c7-a5fb-4070-b816-4b88f111f970">
+      <Text>(Teeth chattering)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="d03a5927-0c06-40ca-b500-192a5e9c9c9a">
+      <Text>It’s... not... funny.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="74c83f82-a461-471a-9ba9-3fe8af805e1c">
+      <Text>Pyrus points a shaky finger at the soggy photo Parsley is clutching; the one where he’s holding the garden gnome while the room burns.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="6f385a5d-e55f-4a8a-999c-cc8492391dab">
+      <Text>Pyrus</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="50e9c356-8c02-4aa3-8e11-a32d681233a1">
+      <Text>You kidding? It’s legendary! Look at your face! You look like you’ve seen the Higher Farmer!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="f5ef71c3-dae5-4a8a-b9b0-8c8876e56180">
+      <Text>Bombus</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="c18b163c-139e-4985-9dbd-aa3c65e3b648">
+      <Text>(Buzzing a mocking tune)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="0bff6147-d754-4bda-a7c0-298c2c53f20f">
+      <Text AdornmentStyle="-1">Bzz</Text>
+      <Text>-</Text>
+      <Text AdornmentStyle="-1">bzz</Text>
+      <Text>-LOSER-</Text>
+      <Text AdornmentStyle="-1">bzz</Text>
+      <Text>!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="ede959ad-a63e-4bca-9623-2bd68906fc01">
+      <Text>Pyrus</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="2f292c9e-0ebf-4a68-be39-89ce1f056df0">
+      <Text>Even Bombus thinks you’ve peaked. Forget the elites, lil herb. This is the first time you’ve actually looked like you have a pulse!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="31e89fc6-cbc9-4b83-8173-306772adcc2c">
+      <Text>Rau</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="33d13ace-a33a-4099-98ae-91962971c23c">
+      <Text>(Marching past them)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="8e92e30e-be81-4e45-855d-77c6c071cbb1">
+      <Text>Ignore the pear, Parsley! Art is always misunderstood by the fruit-bearing classes!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="672cac45-8f25-4bde-bd89-d0f036feb35f">
+      <Text>Pyrus</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="6fad13fe-a611-4180-96fb-dd1b5648b276">
+      <Text>(Calling after them)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="b4fd1bbd-e71b-438d-ac76-4486852adc2a">
+      <Text>Art? Is that what we’re calling a felony now? Hey, "Gnome-boy," wait up!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="5308f3a9-65d2-4a02-aea1-833abe41736d">
+      <Text>Pyrus trots after them, pulling out their own phone to snap a "candid" shot of Parsley’s dripping hair.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="f591602b-5b22-4dc8-af2e-b83afa3a73a5">
+      <Text>Parsley stops mid-squelch. He looks at the soggy photo of himself clutching a gnome amidst an electrical fire. Then he looks at Pyrus. Slowly, a lopsided, mischievous grin spreads across his face.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="8e9736a5-e07a-4343-b08f-ada73300be04">
+      <Text>PARSLEY</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="37de2508-e497-4122-90ed-9c6accccc7e0">
+      <Text>(Holding the photo up)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="fd6c0d58-da64-4686-bfca-884770e54f16">
+      <Text>You’re right. This isn’t a disaster. It’s an aesthetic.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="6985fb0f-9905-41ab-950d-224df4130017">
+      <Text>PYRUS</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="e8f2778c-92d5-4650-bc19-d5e755c61982">
+      <Text>(Eyes widening)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="a32b9f00-a9ed-42d7-a53d-158ff2377ee2">
+      <Text>That’s the spirit! Give me a pose, you beautiful disaster!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="3ff29afc-1a60-47d6-a345-022fb0f71611">
+      <Text>Parsley strikes a dramatic "survivor" pose, letting the sprinkler water drip off his nose like a high-fashion model. He turns to the crowd of staring students in the hallway.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="c871c409-10cc-4c6d-acad-de7cef0aafb0">
+      <Text>PARSLEY</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="639f233d-0600-4354-ac01-8ad32762471c">
+      <Text>(Projecting)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="335554fa-ff40-4145-b83d-332e80118b3f">
+      <Text>Pre-orders for the "Gnome-boy Collection" start at lunch! Get '</Text>
+      <Text AdornmentStyle="-1">em</Text>
+      <Text> while they're hot—literally, the room is still on fire!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="3bc77bf4-99ea-4228-8099-7e18751b3597">
+      <Text>The hallway erupts. Some students cheer; others scramble to get their phones out. The Roses, previously so smug, look genuinely confused by his sudden confidence.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="33eb46a5-5d63-4ba5-85d2-2a3e0682fe2d">
+      <Text>RAU</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="bd7a2391-f3bf-4484-9685-a3a9c0446e6f">
+      <Text>(Beaming)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="700855cf-c9ac-40b1-a0a5-166066336744">
+      <Text>That’s my boy! Use the chaos to fertilize your brand!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="58fc94ef-0ffd-42a0-b3c1-4826212e22fc">
+      <Text>PYRUS</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="8cfae3f4-81a0-49b8-893a-0dd35c7eb7f0">
+      <Text>(Recording a video)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="47f39991-496a-417f-ab75-cf6fd09dd8f0">
+      <Text>First "Transplant" to ever break the internet before first period. We’re going viral, Sprout!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="754ace4d-3590-4e27-941a-7db711c37893">
+      <Text>Parsley marches toward the exit, head held high, squelching with every step like he’s walking a runway in Woody Holly.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="11c06a43-2f28-4afd-9aea-e62c60656742">
+      <Text>Principal Sequoia stands in the doorway, her massive wooden brow furrowing so deeply it looks like a canyon. She watches the spectacle—the cheering, the flashes, the sheer disrespect for her authoritarian order.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="a8a1a3df-a2b0-4bf6-b1d5-3f7d1f3bcf74">
+      <Text>PRINCIPAL SEQUOIA</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="e32a1569-69da-44b8-9200-f5c647ca52f3">
+      <Text>(Thundering)</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="ec61cc56-1118-43fd-97ca-c21d8d277c66">
+      <SceneProperties Length="3/8" Page="12" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="RAU">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>THE NURSERY IS NOT A NIGHTCLUB, MR. RAM!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="029d0d63-d604-479f-ab42-de6df31cc8c2">
+      <Text>But the students aren't listening. They’re too busy retweeting Pyrus’s video. A tiny sprout in the back even starts a rhythmic chant: "Gnome-boy! Gnome-boy!"</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="0f559f76-d24f-4817-baff-604992227256">
+      <Text>RAU</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="ceac3a57-ef08-4bf9-ae55-e4c741436e02">
+      <Text>(Winking at Sequoia)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="a845e74b-be25-49a1-84ad-1646d01153fb">
+      <Text>Looks like your "elite" board just got a new chairman, honey.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="63e61d41-dc83-4861-8195-6d9987644f72">
+      <Text>Rau grabs Parsley and Pyrus by the collars, ushering them toward the exit before Sequoia can find a reason to call the SAPP agents.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="ebc242c7-d88d-4ab4-a10a-838c88f35e67">
+      <SceneProperties Length="1 1/8" Page="12" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="COMPANY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="MALUS">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="PARSLEY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="PYRUS">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="RAU">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>EXT. ROOTIMENTARY SCHOOL - MOMENTS LATER</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="79d7f08e-6551-4e08-8d26-f030e630f30a">
+      <Text>They burst out of the greenhouse doors into the humid morning air. Malus is leaning against the wagon-car, blowing a cloud of sparkly pollen into the air.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="e80b4d04-df18-4142-9a90-6b222283dd7c">
+      <Text>Malus</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="4c8e5375-6411-4e8f-aa46-07e33fdd6a9b">
+      <Text>(Cackling)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="f7d21963-a95b-4e1c-ba51-35537668fb07">
+      <Text>I heard the fire alarm from three blocks away. Cilantro, darling, tell me you didn't just burn down the only decent school in Dirty City.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="bb763fb5-a1aa-40bf-80fc-6cc0c9acef03">
+      <Text>Rau tosses the camera into the backseat.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="07cdb418-f5c8-43f1-80ce-e8c195ec5fbf">
+      <Text>RAU</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="efb9d51a-e42d-42cb-95d3-8546c0839a46">
+      <Text>I didn't burn it down. I rebranded it. Get in the car, we have a viral moment to manage.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="521297f7-ee65-4468-b79c-db8e018b7a75">
+      <Text>Parsley hops into the back, still dripping, but he’s looking at his phone. The notification count is climbing. For the first time in his life, he doesn't feel like a "transplant" trying to blend in—he feels like a star.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="9e74443b-5228-4b3f-85a1-bbdcdb008a23">
+      <Text>PARSLEY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="59b8c03d-9d46-4ebc-8476-9ae1afa07247">
+      <Text>Mom?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="ef6ece51-1ba7-4e75-8a6b-e3fdbd9fbbb8">
+      <Text>RAU</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="629612dc-d4bb-450e-bf94-5a109fb8380d">
+      <Text>Yes, my little masterpiece?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="327c0e47-0daf-4ac8-8e46-a4fa3298ff77">
+      <Text>PARSLEY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="31973324-2a78-40f2-9642-1e08d05e6b9a">
+      <Text>Can we get some Miracle on the way home? I think I earned it.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="459202cf-7d96-4807-a494-1052974955e9">
+      <Text>Pyrus punches his arm, grinning.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="b7f19cec-59ce-414f-971d-e3b46693d789">
+      <Text>PYRUS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="ffb5201c-d011-431a-a8e1-67d6253aefd3">
+      <Text>He’s finally growing some thorns!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="0b0e5795-94a3-485c-bdc5-51d886d89677">
+      <Text>Bombus gets out the </Text>
+      <Text AdornmentStyle="-1">Salontro</Text>
+      <Text> cam. They buzz to the tune of “Photosynthesis.”</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="262cd8f7-2762-40e8-b9ac-f9a15e01849c">
+      <Text>Company</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="9e6c5d15-a0dc-4895-9247-e51404b97517">
+      <Text>Photosynthesis... photosynthesis... Photo!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="30e983dc-2989-4185-9033-c805e15b6251">
+      <Text Style="AllCaps">Flash</Text>
+      <Text>. The final photo captures [fill in the blank] and Parsley looking into the camera with a look that says: I’m just getting started.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="92e92627-cfff-4e6c-bbae-2d7791f0473b">
+      <Text>On the bottom of the photo is a hand-written green text: “Picture Perfect”</Text>
+    </Paragraph>
+    <Paragraph Type="End of Act" id="c0a95428-52eb-42b1-bfa7-8876bbd34885">
+      <Text Style="Underline+AllCaps">The End</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="0111b406-c462-4e31-81e4-41bf32f3b9c8">
+      <Text Style="AllCaps">Visual cue</Text>
+      <Text>: The end credits feature a montage of all photos taken throughout the episode, interspersed with behind-the-scenes production stills and concept art. The images are a scrapbook of the adventure and spirit of </Text>
+      <Text Style="Italic">Photosynthesis</Text>
+      <Text>.</Text>
+    </Paragraph>
+  </Content>
+
+  <Watermarking Opacity="70" Position="Diagonal Descending">
+    <DynamicContent>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="1" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+    </DynamicContent>
+    <Distribution>
+      <Name></Name>
+    </Distribution>
+    <WatermarkImage Height="144"></WatermarkImage>
+  </Watermarking>
+
+  <HeaderAndFooter FooterFirstPage="Yes" FooterVisible="No" HeaderFirstPage="Yes" HeaderVisible="Yes" StartingPage="1">
+    <Header>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" OutlineLevel="1" RightIndent="-1.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">photosynthesis</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">     Pilot: "Picture Perfect"    </Text>
+        <DynamicLabel AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="" Type="Active Revision"/>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">	</Text>
+        <DynamicLabel AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="" Type="Page #"/>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">.</Text>
+        <Tabstops>
+          <Tabstop Position="4.50" Type="Center"/>
+          <Tabstop Position="7.25" Type="Right"/>
+        </Tabstops>
+      </Paragraph>
+    </Header>
+    <Footer>
+      <Paragraph Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" OutlineLevel="1" RightIndent="-1.25" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> </Text>
+      </Paragraph>
+    </Footer>
+  </HeaderAndFooter>
+
+  <SpellCheckIgnoreLists>
+    <IgnoredRanges/>
+    <IgnoredWords/>
+  </SpellCheckIgnoreLists>
+
+  <PageLayout BackgroundColor="#FFFFFFFFFFFF" BottomMargin="72" BreakDialogueAndActionAtSentences="Yes" DocumentLeading="Normal" FooterMargin="36" ForegroundColor="#000000000000" HeaderMargin="36" InvisiblesColor="#808080808080" TopMargin="72" UsesSmartQuotes="Yes">
+    <PageSize Height="11.00" Width="8.50"/>
+    <AutoCastList AddParentheses="Yes" AutomaticallyGenerate="Yes" CastListElement="Cast List"/>
+  </PageLayout>
+
+  <WindowState Height="635" Left="2" Mode="Maximized" Top="2" Width="649"/>
+
+  <TextState Scaling="110" Selection="11103,11103" ShowInvisibles="No"/>
+
+  <ElementSettings Type="General">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No" Type="General"/>
+    <Behavior PaginateAs="General" ReturnKey="General" Shortcut="0" WinShortcut="0"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Scene Heading">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="24" Spacing="1" StartsNewPage="No" Type="Scene Heading"/>
+    <Behavior PaginateAs="Scene Heading" ReturnKey="Action" Shortcut="1" WinShortcut="1"/>
+    <Outline CanHide="No" Level="2"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Action">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Action"/>
+    <Behavior PaginateAs="Action" ReturnKey="Action" Shortcut="2" WinShortcut="2"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Character">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.50" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character"/>
+    <Behavior PaginateAs="Character" ReturnKey="Dialogue" Shortcut="3" WinShortcut="3"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Parenthetical">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Left" FirstIndent="-0.10" Leading="Regular" LeftIndent="3.00" RightIndent="5.50" SpaceBefore="0" Spacing="1" StartsNewPage="No" Type="Parenthetical"/>
+    <Behavior PaginateAs="Parenthetical" ReturnKey="Dialogue" Shortcut="4" WinShortcut="4"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Dialogue">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="2.50" RightIndent="6.00" SpaceBefore="0" Spacing="1" StartsNewPage="No" Type="Dialogue"/>
+    <Behavior PaginateAs="Dialogue" ReturnKey="Action" Shortcut="5" WinShortcut="5"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Transition">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="5.50" RightIndent="7.10" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Transition"/>
+    <Behavior PaginateAs="Transition" ReturnKey="Scene Heading" Shortcut="6" WinShortcut="6"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Shot">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Shot"/>
+    <Behavior PaginateAs="Scene Heading" ReturnKey="Action" Shortcut="7" WinShortcut="7"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Cast List">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No" Type="Cast List"/>
+    <Behavior PaginateAs="Action" ReturnKey="Action" Shortcut="8" WinShortcut="8"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="New Act">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+Underline+AllCaps"/>
+    <ParagraphSpec Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="Yes" Type="New Act"/>
+    <Behavior PaginateAs="Scene Heading" ReturnKey="Scene Heading" Shortcut="9" WinShortcut="9"/>
+    <Outline CanHide="No" Level="6"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Sequence">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+Underline+AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.50" SpaceBefore="24" Spacing="1" StartsNewPage="No" Type="Sequence"/>
+    <Behavior PaginateAs="Scene Heading" ReturnKey="Scene Heading" Shortcut="Ctrl+8" WinShortcut="Shift+8"/>
+    <Outline CanHide="No" Level="4"/>
+  </ElementSettings>
+
+  <ElementSettings Type="End of Act">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+Underline+AllCaps"/>
+    <ParagraphSpec Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="24" Spacing="1" StartsNewPage="No" Type="End of Act"/>
+    <Behavior PaginateAs="Character" ReturnKey="New Act" Shortcut="Ctrl+9" WinShortcut="Shift+9"/>
+    <Outline CanHide="No" Level="6"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Summary">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#87878F8FE0E0" Font="Arial" RevisionID="0" Size="12" Style="HiddenText"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.88" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Summary"/>
+    <Behavior PaginateAs="Outline Body" ReturnKey="Summary" Shortcut="Ctrl+0" WinShortcut="Shift+0"/>
+    <Outline CanHide="Yes" Level="0"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Outline 1">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#87878F8FE0E0" Font="Arial" RevisionID="0" Size="16" Style="Bold+HiddenText"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.88" RightIndent="7.50" SpaceBefore="16" Spacing="1" StartsNewPage="No" Type="Outline 1"/>
+    <Behavior PaginateAs="Outline" ReturnKey="Summary" Shortcut="Ctrl+1" WinShortcut="Shift+1"/>
+    <Outline CanHide="Yes" Level="7"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Outline 2">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#87878F8FE0E0" Font="Arial" RevisionID="0" Size="14" Style="Bold+HiddenText"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.13" RightIndent="7.50" SpaceBefore="14" Spacing="1" StartsNewPage="No" Type="Outline 2"/>
+    <Behavior PaginateAs="Outline" ReturnKey="Summary" Shortcut="Ctrl+2" WinShortcut="Shift+2"/>
+    <Outline CanHide="Yes" Level="5"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Outline 3">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#87878F8FE0E0" Font="Arial" RevisionID="0" Size="12" Style="Bold+HiddenText"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.38" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Outline 3"/>
+    <Behavior PaginateAs="Outline" ReturnKey="Summary" Shortcut="Ctrl+3" WinShortcut="Shift+3"/>
+    <Outline CanHide="Yes" Level="3"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Note">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#87878F8FE0E0" Font="Arial" RevisionID="0" Size="12" Style="Italic+HiddenText"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.63" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Note"/>
+    <Behavior PaginateAs="Outline" ReturnKey="Summary" Shortcut="Ctrl+4" WinShortcut="Shift+4"/>
+    <Outline CanHide="Yes" Level="1"/>
+  </ElementSettings>
+
+  <TitlePage>
+    <HeaderAndFooter FooterFirstPage="Yes" FooterVisible="No" HeaderFirstPage="No" HeaderVisible="Yes" StartingPage="1">
+      <Header>
+        <Paragraph Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" OutlineLevel="1" RightIndent="-1.25" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <DynamicLabel AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="" Type="Page #"/>
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">.</Text>
+        </Paragraph>
+      </Header>
+      <Footer>
+        <Paragraph Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" OutlineLevel="1" RightIndent="-1.25" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      </Footer>
+    </HeaderAndFooter>
+    <Content>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">Photosynthesis</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Pilot: "Picture Perfect"</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">by</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">David Quang Pham</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Revised Draft</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">1/23/2026</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">512 W 158th St #2 New York, New York 10032</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">david</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="4" Style=""> </Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">@</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="4" Style=""> </Text>
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">flavorpictures</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">.</Text>
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">com</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">616 818 5413</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">Series</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Follow the musical adventures of a tranplant salon owner, her son Parsley, his pear neighbor, and their picture perfect friends in the garden community of Dirty City, Woodwork.</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">Episode</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+    </Content>
+    <TextState Scaling="100" Selection="263,263" ShowInvisibles="No"/>
+  </TitlePage>
+
+  <SmartType>
+    <Characters>
+      <Character>Aardvark</Character>
+      <Character>AarDVARKs</Character>
+      <Character>Acadia</Character>
+      <Character>AcADIA &amp; Cát</Character>
+      <Character>AcaDIA &amp; CÁT
+</Character>
+      <Character>Amami Rabbits</Character>
+      <Character>ATV</Character>
+      <Character>Bombus</Character>
+      <Character>Campers</Character>
+      <Character>CUC</Character>
+      <Character>Cát</Character>
+      <Character>Dino</Character>
+      <Character>Horseshoe Crabs</Character>
+      <Character>Host</Character>
+      <Character>Kooky</Character>
+      <Character>Kudzu Lubata</Character>
+      <Character>Oci</Character>
+      <Character>Oci, Parsley, Pyrus</Character>
+      <Character>Officer</Character>
+      <Character>Parsley</Character>
+      <Character>Parsley, Pyrus, Oci</Character>
+      <Character>Phone</Character>
+      <Character>Piper Bell</Character>
+      <Character>Producer</Character>
+      <Character>Pyrus</Character>
+      <Character>Rau</Character>
+      <Character>Researcher 1</Character>
+      <Character>Researcher 2</Character>
+      <Character>Zea Mays</Character>
+      <Character>Tom Solan</Character>
+      <Character>Bella Donna</Character>
+      <Character>Verbena</Character>
+      <Character>Rose</Character>
+      <Character>Tulip</Character>
+      <Character>PYRUS &amp; PARSLEY</Character>
+      <Character>THUJA</Character>
+      <Character>Lami</Character>
+      <Character>MALUS</Character>
+      <Character>Handler</Character>
+      <Character>Principal Sequoia</Character>
+    </Characters>
+    <Extensions>
+      <Extension>(V.O.)</Extension>
+      <Extension>(O.S.)</Extension>
+      <Extension>(O.C.)</Extension>
+      <Extension>(SUBTITLE)</Extension>
+      <Extension>(TEXT)</Extension>
+      <Extension>(Phone)</Extension>
+      <Extension>(Pre-lap)</Extension>
+    </Extensions>
+    <SceneIntros Separator=". ">
+      <SceneIntro>INT</SceneIntro>
+      <SceneIntro>EXT</SceneIntro>
+      <SceneIntro>I/E</SceneIntro>
+    </SceneIntros>
+    <Locations>
+      <Location>LIVING ISLAND</Location>
+      <Location>HAIPHONG HOSPITAL</Location>
+      <Location>UNDERWATER</Location>
+      <Location>OCEAN</Location>
+      <Location>CÁT'S ROOM IN HAIPHONG HOSPITAL</Location>
+      <Location>FOSSIL ISLAND</Location>
+      <Location>SEA</Location>
+      <Location>TALK SHOW SET, STAGE</Location>
+      <Location>BANG-LEVIN BIOLOGICAL STATION</Location>
+      <Location>BANG-LEVIN BIOLOGICAL STATION LAB</Location>
+      <Location>CÚC PHUONG NATIONAL PARK, VIETNAM</Location>
+      <Location>BANG-LEVIN BIOLOGICAL STATION LIBRARY</Location>
+      <Location>CÚC PHUONG NATIONAL PARK DOCK</Location>
+      <Location>FOSSIL ISLAND BEACH</Location>
+      <Location>BANG-LEVIN BIOLOGICAL STATION STAIRCASE</Location>
+      <Location>BANG-LEVIN BIOLOGICAL STATION PARKING LOT</Location>
+      <Location>HIGHWAY</Location>
+      <Location>FOSSIL ISLAND CLIFF</Location>
+      <Location>PORT NEWARK</Location>
+      <Location>EAST COAST</Location>
+      <Location>FOSSIL ISLAND BAY / EXT. UNDERWATER</Location>
+      <Location>BANG-LEVIN BIOLOGICAL STATION LOBBY</Location>
+      <Location>FOSSIL ISLAND - BAY &amp; UNDERWATER</Location>
+      <Location>BANG-LEVIN BIOLOGICAL STATION - LAB</Location>
+      <Location>BANGOR RACEWAY</Location>
+      <Location>CONTAINER</Location>
+      <Location>CARGO SHIP - BRIDGE</Location>
+      <Location>CARGO SHIP</Location>
+      <Location>GREEN ROOM</Location>
+      <Location>FOSSIL ISLAND - UNDERWATER</Location>
+      <Location>CAR</Location>
+      <Location>DEARBORN CAR</Location>
+      <Location>FRESH GROUND CAMPGROUND</Location>
+      <Location>FRESH GROUND FIREFLY PIT</Location>
+      <Location>FRESH GROUND TRAIL</Location>
+      <Location>FRESH GROUND BARN</Location>
+      <Location>DIRTY CITY</Location>
+      <Location>BEETLE CAR</Location>
+      <Location>SALONTRO</Location>
+      <Location>SALONTRO / FIGLEAF</Location>
+      <Location>SALONTRO - PARSLEY'S BEDROOM</Location>
+      <Location>ROOTIMENTARY SCHOOL</Location>
+      <Location>ROOTIMENTARY SCHOOL - PHOTO ROOM</Location>
+    </Locations>
+    <TimesOfDay Separator=" - ">
+      <TimeOfDay>DAY</TimeOfDay>
+      <TimeOfDay>NIGHT</TimeOfDay>
+      <TimeOfDay>AFTERNOON</TimeOfDay>
+      <TimeOfDay>MORNING</TimeOfDay>
+      <TimeOfDay>EVENING</TimeOfDay>
+      <TimeOfDay>LATER</TimeOfDay>
+      <TimeOfDay>MOMENTS LATER</TimeOfDay>
+      <TimeOfDay>CONTINUOUS</TimeOfDay>
+      <TimeOfDay>THE NEXT DAY</TimeOfDay>
+      <TimeOfDay>MAGIC HOUR</TimeOfDay>
+      <TimeOfDay>DAWN</TimeOfDay>
+      <TimeOfDay>DUSK</TimeOfDay>
+      <TimeOfDay>SAME</TimeOfDay>
+      <TimeOfDay>SAME TIME</TimeOfDay>
+      <TimeOfDay>MINUTES LATER</TimeOfDay>
+      <TimeOfDay>HOURS LATER</TimeOfDay>
+      <TimeOfDay>PRESENT</TimeOfDay>
+      <TimeOfDay>PRINCIPAL'S OFFICE</TimeOfDay>
+      <TimeOfDay>EARLIER</TimeOfDay>
+    </TimesOfDay>
+    <Transitions>
+      <Transition>CUT TO:</Transition>
+      <Transition>FADE IN:</Transition>
+      <Transition>FADE OUT.</Transition>
+      <Transition>FADE TO:</Transition>
+      <Transition>DISSOLVE TO:</Transition>
+      <Transition>BACK TO:</Transition>
+      <Transition>MATCH CUT TO:</Transition>
+      <Transition>JUMP CUT TO:</Transition>
+      <Transition>FADE TO BLACK.</Transition>
+      <Transition>SMASH CUT TO:</Transition>
+      <Transition>CUT TO BLACK.</Transition>
+      <Transition>TIME CUT:</Transition>
+      <Transition>FADE OUT</Transition>
+    </Transitions>
+  </SmartType>
+
+  <MoresAndContinueds>
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <DialogueBreaks AutomaticCharacterContinueds="Yes" BottomOfPage="Yes" DialogueBottom="(MORE)" DialogueTop="(CONT'D)" TopOfNext="Yes"/>
+    <SceneBreaks ContinuedNumber="No" SceneBottom="(CONTINUED)" SceneBottomOfPage="No" SceneTop="CONTINUED:" SceneTopOfNext="No"/>
+  </MoresAndContinueds>
+
+  <LockedPages/>
+
+  <Revisions ActiveSet="1" Location="7.75" RevisionMode="No" RevisionsShown="Active" ShowPageColor="No">
+    <Revision FullRevision="No" ID="1" Mark="*" Name="1/23/26" PageColor="#C6C6EDEDFEFE" Style=""/>
+    <Revision FullRevision="No" ID="2" Mark="*" Name="Pink Rev. (mm/dd/yy)" PageColor="#FDFDCCCCD4D4" Style=""/>
+    <Revision FullRevision="No" ID="3" Mark="*" Name="Yellow Rev. (mm/dd/yy)" PageColor="#FDFDFFFFABAB" Style=""/>
+    <Revision FullRevision="No" ID="4" Mark="*" Name="Green Rev. (mm/dd/yy)" PageColor="#D1D1FEFED0D0" Style=""/>
+    <Revision FullRevision="No" ID="5" Mark="*" Name="Goldenrod Rev. (mm/dd/yy)" PageColor="#FAFACDCD3939" Style=""/>
+    <Revision FullRevision="No" ID="6" Mark="*" Name="Buff Rev. (mm/dd/yy)" PageColor="#FCFCEDED9D9D" Style=""/>
+    <Revision FullRevision="No" ID="7" Mark="*" Name="Salmon Rev. (mm/dd/yy)" PageColor="#F8F8AEAE8E8E" Style=""/>
+    <Revision FullRevision="No" ID="8" Mark="*" Name="Cherry Rev. (mm/dd/yy)" PageColor="#FBFBA4A4B4B4" Style=""/>
+    <Revision FullRevision="No" ID="9" Mark="*" Name="Tan Rev. (mm/dd/yy)" PageColor="#FDFDF1F1C7C7" Style=""/>
+    <Revision FullRevision="No" ID="10" Mark="*" Name="2nd White Rev. (mm/dd/yy)" PageColor="#FFFFFFFFFFFF" Style=""/>
+    <Revision FullRevision="No" ID="11" Mark="*" Name="2nd Blue Rev. (mm/dd/yy)" PageColor="#C6C6EDEDFEFE" Style=""/>
+    <Revision FullRevision="No" ID="12" Mark="*" Name="2nd Pink Rev. (mm/dd/yy)" PageColor="#FDFDCCCCD4D4" Style=""/>
+    <Revision FullRevision="No" ID="13" Mark="*" Name="2nd Yellow Rev. (mm/dd/yy)" PageColor="#FDFDFFFFABAB" Style=""/>
+    <Revision FullRevision="No" ID="14" Mark="*" Name="2nd Green Rev. (mm/dd/yy)" PageColor="#D1D1FEFED0D0" Style=""/>
+    <Revision FullRevision="No" ID="15" Mark="*" Name="2nd Goldenrod Rev. (mm/dd/yy)" PageColor="#FAFACDCD3939" Style=""/>
+    <Revision FullRevision="No" ID="16" Mark="*" Name="2nd Buff Rev. (mm/dd/yy)" PageColor="#FCFCEDED9D9D" Style=""/>
+    <Revision FullRevision="No" ID="17" Mark="*" Name="2nd Salmon Rev. (mm/dd/yy)" PageColor="#F8F8AEAE8E8E" Style=""/>
+    <Revision FullRevision="No" ID="18" Mark="*" Name="2nd Cherry Rev. (mm/dd/yy)" PageColor="#FBFBA4A4B4B4" Style=""/>
+    <Revision FullRevision="No" ID="19" Mark="*" Name="2nd Tan Rev. (mm/dd/yy)" PageColor="#FDFDF1F1C7C7" Style=""/>
+  </Revisions>
+
+  <SplitState ActivePanel="1" CardsAcross="2" ShowAction="Yes" ShowSceneTitle="Yes" ShowSummary="Yes" SplitMode="None" SplitterPosition="1358">
+    <ScriptPanel DisplayMode="Page">
+      <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style=""/>
+    </ScriptPanel>
+  </SplitState>
+
+  <Macros>
+    <Macro Element="Scene Heading" Name="INT" Shortcut="Ctrl+Alt+1" Text="INT. " Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="EXT" Shortcut="Ctrl+Alt+2" Text="EXT. " Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="I/E" Shortcut="Ctrl+Alt+3" Text="I/E " Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="DAY" Shortcut="Ctrl+Alt+4" Text=" - DAY" Transition="Action">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="NIGHT" Shortcut="Ctrl+Alt+5" Text=" - NIGHT" Transition="Action">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="SUNRISE" Shortcut="Ctrl+Alt+6" Text=" - SUNRISE" Transition="Action">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="MAGIC" Shortcut="Ctrl+Alt+7" Text=" - MAGIC" Transition="Action">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Parenthetical" Name="CONT" Shortcut="Ctrl+Alt+8" Text="continuing" Transition="Dialogue">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Parenthetical" Name="INTER" Shortcut="Ctrl+Alt+9" Text="interrupting" Transition="Dialogue">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="None" Name="" Shortcut="Ctrl+Alt+0" Text="" Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="CUTTO" Shortcut="Ctrl+Shift+Alt+1" Text="CUT TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Action" Name="FADEIN" Shortcut="Ctrl+Shift+Alt+2" Text="FADE IN:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="FADEOUT" Shortcut="Ctrl+Shift+Alt+3" Text="FADE OUT." Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="FADETO" Shortcut="Ctrl+Shift+Alt+4" Text="FADE TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="DISSLV" Shortcut="Ctrl+Shift+Alt+5" Text="DISSOLVE TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="BACKTO" Shortcut="Ctrl+Shift+Alt+6" Text="BACK TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="MATCHCUT" Shortcut="Ctrl+Shift+Alt+7" Text="MATCH CUT TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="JUMPCUT" Shortcut="Ctrl+Shift+Alt+8" Text="JUMP CUT TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="FBLACK" Shortcut="Ctrl+Shift+Alt+9" Text="FADE TO BLACK." Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="None" Name="" Shortcut="E" Text="" Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+  </Macros>
+
+  <Actors>
+    <Actor MacVoice="" Name="Man 1" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Man 2" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Woman 1" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Woman 2" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Boy 1" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Boy 2" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Girl 1" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Girl 2" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Old Man" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Old Woman" Pitch="Normal" Speed="Medium" WinVoice=""/>
+  </Actors>
+
+  <Cast>
+    <Narrator Actor="Man 1">
+      <Element Type="Character"/>
+      <Element Type="Dialogue"/>
+    </Narrator>
+    <Member Actor="" Character="Aardvark"/>
+    <Member Actor="" Character="AarDVARKs"/>
+    <Member Actor="" Character="Acadia"/>
+    <Member Actor="" Character="AcADIA &amp; Cát"/>
+    <Member Actor="" Character="AcaDIA &amp; CÁT&#xA;"/>
+    <Member Actor="" Character="Amami Rabbits"/>
+    <Member Actor="" Character="ATV"/>
+    <Member Actor="" Character="Bombus"/>
+    <Member Actor="" Character="Campers"/>
+    <Member Actor="" Character="CUC"/>
+    <Member Actor="" Character="Cát"/>
+    <Member Actor="" Character="Dino"/>
+    <Member Actor="" Character="Horseshoe Crabs"/>
+    <Member Actor="" Character="Host"/>
+    <Member Actor="" Character="Kooky"/>
+    <Member Actor="" Character="Kudzu Lubata"/>
+    <Member Actor="" Character="Oci"/>
+    <Member Actor="" Character="Oci, Parsley, Pyrus"/>
+    <Member Actor="" Character="Officer"/>
+    <Member Actor="" Character="Parsley"/>
+    <Member Actor="" Character="Parsley, Pyrus, Oci"/>
+    <Member Actor="" Character="Phone"/>
+    <Member Actor="" Character="Piper Bell"/>
+    <Member Actor="" Character="Producer"/>
+    <Member Actor="" Character="Pyrus"/>
+    <Member Actor="" Character="Rau"/>
+    <Member Actor="" Character="Researcher 1"/>
+    <Member Actor="" Character="Researcher 2"/>
+    <Member Actor="" Character="Zea Mays"/>
+    <Member Actor="" Character="Tom Solan"/>
+    <Member Actor="" Character="Bella Donna"/>
+    <Member Actor="" Character="Verbena"/>
+    <Member Actor="" Character="Rose"/>
+    <Member Actor="" Character="Tulip"/>
+    <Member Actor="" Character="PYRUS &amp; PARSLEY"/>
+    <Member Actor="" Character="THUJA"/>
+    <Member Actor="" Character="Lami"/>
+    <Member Actor="" Character="MALUS"/>
+    <Member Actor="" Character="Handler"/>
+    <Member Actor="" Character="Principal Sequoia"/>
+  </Cast>
+
+  <SceneNumberOptions LeftLocation="0.75" NumberScheme="1A" RightLocation="7.38" ShowNumbersOnLeft="Yes" ShowNumbersOnRight="Yes">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+  </SceneNumberOptions>
+
+  <CastList SortOption="Alphabetical">
+    <CustomOrder/>
+  </CastList>
+
+  <CharacterHighlighting>
+    <Character Color="#RRRRGGGGBBBB" Name="BOMBUS" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="COMPANY" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="HANDLER" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="MALUS" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="OCI" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="PARSLEY" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="PRINCIPAL SEQUOIA" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="PYRUS" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="RAU" Visible="No"/>
+  </CharacterHighlighting>
+
+  <ScriptNavigatorPreferences>
+    <TableColumnSettings Filter="" IsSortAscending="Yes" Label="Script" SortColumn="Order" TableIdentifier="NavDynScenes" id="756b1668-c339-4fe9-a227-b968da86e94d"/>
+  </ScriptNavigatorPreferences>
+
+  <AltCollection/>
+
+  <TargetScriptLength>120</TargetScriptLength>
+
+  <ListItems/>
+
+  <DisplayBoards>
+    <DisplayBoard Height="10000" Id="ea5ac6af-4926-415c-897c-51bfeff25831" ScrollOrigin="0,0" Type="Beat" Width="24000" ZoomLevel="100.000"/>
+    <DisplayBoard Height="90" Id="f54e428f-4469-484b-8c9d-7dba54866258" ScrollOrigin="200,0" Type="StoryMap" Width="14600" ZoomLevel="730.000">
+      <Lanes>
+        <Lane Id="c182cd4e-ef72-4f4c-b3ca-a866f235b80d" Label="Outline 1" Level="7" Type="Outline 1"/>
+        <Lane Id="9f25c9a1-6c03-4a2d-a974-0d73c8d529c8" Label="Outline 2" Level="5" Type="Outline 2"/>
+      </Lanes>
+    </DisplayBoard>
+  </DisplayBoards>
+
+  <Writers/>
+
+  <WriterMarkup State="Off"/>
+
+  <TagData>
+    <TagCategories>
+      <TagCategory Color="#00003600B700" Id="01fc9642-84ff-4366-b37c-a3068dee57e8" Name="Cast Members" Number="2" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="028a4e2b-b507-4d09-88ab-90e3edae9071" Name="Background Actors" Number="3" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="0377dbe6-77a3-41af-bda8-86eb2468fdbf" Name="Stunts" Number="4" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="04721a56-f54b-49c8-80ad-d53887d6b851" Name="Vehicles" Number="5" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="05c556eb-6bc1-4a3a-b09f-f8b5ba1b6afa" Name="Props" Number="6" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="069e18b8-2109-4f3d-94e7-d802027a60a8" Name="Special Effects" Number="8" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="0726fa85-1e65-4ab8-87de-bf21d09b01f0" Name="Wardrobe" Number="9" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="08ae1eef-32ce-415f-9a9b-0982d2453ec4" Name="Makeup/Hair" Number="10" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="09cb0d1c-ce01-4f22-bb64-b5f2e6c491c6" Name="Animals" Number="11" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="0ae40617-cc7c-48e6-ae2b-5aaecc09986f" Name="Animal Wrangler" Number="12" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="0b0b44c9-aa4b-4c40-88b1-d94472ad7a26" Name="Music" Number="13" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="0ce7d308-096d-4603-8fe8-349f72cd89ff" Name="Sound" Number="15" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="0debb71b-5743-4c53-80cc-e17e841ce645" Name="Set Dressing" Number="17" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="0e7a8fc5-5441-4bad-a9bf-5ddd3fe51c69" Name="Greenery" Number="18" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="0ff5cda4-4d43-4cfe-940f-91380c46fdad" Name="Special Equipment" Number="19" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="109d0eaa-0334-4823-ac0c-b44d3f209dc4" Name="Security" Number="20" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="1179a4b1-70ee-4011-b4a2-809a0af09e92" Name="Additional Labor" Number="21" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="12ab0932-e3b9-4b4a-bcd0-3da1b4e61d5e" Name="Visual Effects" Number="23" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="135cc9d1-c4d5-4d00-83d9-571f584ea9cd" Name="Mechanical Effects" Number="24" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="15b6f4fd-4e74-4ad8-9971-b239d88c2997" Name="Notes" Number="26" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="216f33fd-fc42-4269-be01-b05b18f815a0" Name="Comments" Number="31" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="47b02ff1-5161-4137-b736-f36eebba7643" Name="Camera" Number="7" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="63c140da-ef2b-491a-b416-b46f461abb89" Name="Script Day" Number="27" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="70877d87-30ef-45b6-be46-c6fa94b83a71" Name="Sequence" Number="29" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="849f1ebf-5507-4f33-bff6-3a5b4d73be14" Name="Unit" Number="28" Style="Bold"/>
+      <TagCategory Color="#000000000000" Id="8e5e75c2-713b-47df-a75f-f12648b98ded" Name="Synopsis" Number="1" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="c5e89e4d-f83e-4c28-950c-92a63f1b5f26" Name="Location" Number="30" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="c86eae40-3b01-41c3-a7de-6859e6ec971d" Name="Art Department" Number="16" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="ce04f547-f7ee-40c9-ab66-d95a0c98034e" Name="Miscellaneous" Number="25" Style="Bold"/>
+    </TagCategories>
+  </TagData>
+
+  <Characters>
+    <CharacterTraitData>
+      <Traits>
+        <Trait ID="a771e8a7-0c6f-401c-ab87-b50f83fc64b4" Name="Age" Type="text"/>
+        <Trait ID="6b3a0017-69de-4c7a-b6e8-1d0b4d2ad047" Name="Disability" Type="text"/>
+        <Trait ID="4b987a9f-24dc-44ae-9bb5-0756485c1c80" Name="Ethnicity" Type="text"/>
+        <Trait ID="611965b7-ffab-41a1-a154-023ea8caf768" Name="Gender" Type="text"/>
+        <Trait ID="9b51b304-a8c0-4277-a841-342b5f84fc65" Name="Occupation" Type="text"/>
+        <Trait ID="ecdbbc67-9a69-40dc-8e9f-745a665ab73a" Name="Orientation" Type="text"/>
+        <Trait ID="338d378b-5235-40ad-8102-0dbe0b32ff84" Name="Role" Type="text"/>
+      </Traits>
+      <Holders/>
+    </CharacterTraitData>
+    <ChartOptions Identifier="InclusivityAnalysis">
+      <FilterSets/>
+    </ChartOptions>
+  </Characters>
+
+  <ScriptNotes/>
+
+  <Navigator>
+    <Tabs>
+      <Tab Selected="Yes" id="756b1668-c339-4fe9-a227-b968da86e94d"/>
+    </Tabs>
+  </Navigator>
+
+  <Images/>
+
+  <Outlines Paragraphs="Show" StructureLines="Hide"/>
+
+</FinalDraft>
